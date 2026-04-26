@@ -1,5 +1,5 @@
 export async function loadModule(moduleId) {
-  const basePath = `/modules/${moduleId}`;
+  const basePath = `${import.meta.env.BASE_URL}modules/${moduleId}`;
 
   const loadJson = async (path, fallback = null) => {
     const res = await fetch(path);
