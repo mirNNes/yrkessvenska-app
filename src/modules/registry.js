@@ -57,5 +57,5 @@ export const moduleRegistry = [
   },
 ].map((module) => ({
   ...module,
-  image: `/modules/${module.id}/images/cover.jpg`,
+  image: `${import.meta.env.BASE_URL}modules/${module.id}/images/cover.jpg`,
 }));
