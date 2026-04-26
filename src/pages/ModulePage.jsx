@@ -344,9 +344,9 @@ function ModulePage() {
                   <div className="flip-card__inner">
                     <div className="flip-card__face flip-card__face--front">
                       <img
-                        src="/images/card-front.png"
-                        alt="Kort framsida"
-                        className="flip-card__image"
+                      src={import.meta.env.BASE_URL + "images/card-front.png"}
+                      alt="Kort framsida"
+                      className="flip-card__image"
                       />
 
                       <p>{phrase.explanation}</p>
@@ -354,7 +354,7 @@ function ModulePage() {
 
                     <div className="flip-card__face flip-card__face--back">
                       <img
-                        src="/images/card-back.png"
+                        src={import.meta.env.BASE_URL + "images/card-back.png"}
                         alt="Kort baksida"
                         className="flip-card__image"
                       />
