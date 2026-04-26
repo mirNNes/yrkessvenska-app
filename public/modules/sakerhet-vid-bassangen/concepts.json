@@ -1,0 +1,101 @@
+[
+  {
+    "id": "bassang",
+    "word": "Bassäng",
+    "type": "substantiv",
+    "inflections": ["bassäng", "bassängen", "bassänger", "bassängerna"],
+    "explanation": "Här badar och simmar man.",
+    "image": "/modules/sakerhet-vid-bassangen/images/bassang.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/bassang.mp3"
+  },
+  {
+    "id": "badvard",
+    "word": "Badvärd",
+    "type": "substantiv",
+    "inflections": ["badvärd", "badvärden", "badvärdar", "badvärdarna"],
+    "explanation": "En person som ser till att det är säkert vid bassängen.",
+    "image": "/modules/sakerhet-vid-bassangen/images/badvard.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/badvard.mp3"
+  },
+  {
+    "id": "livboj",
+    "word": "Livboj",
+    "type": "substantiv",
+    "inflections": ["livboj", "livbojen", "livbojar", "livbojarna"],
+    "explanation": "En ring som hjälper en person i vattnet.",
+    "image": "/modules/sakerhet-vid-bassangen/images/livboj.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/livboj.mp3"
+  },
+  {
+    "id": "halkrisk",
+    "word": "Halkrisk",
+    "type": "substantiv",
+    "inflections": ["halkrisk", "halkrisken", "halkrisker", "halkriskerna"],
+    "explanation": "Det är lätt att halka på golvet.",
+    "image": "/modules/sakerhet-vid-bassangen/images/halkrisk.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/halkrisk.mp3"
+  },
+  {
+    "id": "regel",
+    "word": "Regel",
+    "type": "substantiv",
+    "inflections": ["regel", "regeln", "regler", "reglerna"],
+    "explanation": "Saker som alla måste följa.",
+    "image": "/modules/sakerhet-vid-bassangen/images/regler.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/regler.mp3"
+  },
+  {
+    "id": "vatten",
+    "word": "Vatten",
+    "type": "substantiv",
+    "inflections": ["vatten", "vattnet"],
+    "explanation": "Vatten som man simmar i.",
+    "image": "/modules/sakerhet-vid-bassangen/images/djupt_vatten.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/djupt_vatten.mp3"
+  },
+  {
+    "id": "djup",
+    "word": "Djup",
+    "type": "adjektiv",
+    "inflections": ["djup", "djupt", "djupa", "djupare", "djupast"],
+    "explanation": "Beskriver att vattnet är mycket djupt.",
+    "image": "/modules/sakerhet-vid-bassangen/images/djupt_vatten.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/djupt_vatten.mp3"
+  },
+  {
+    "id": "simma",
+    "word": "Simma",
+    "type": "verb",
+    "inflections": ["simmar", "simmade", "simmat"],
+    "explanation": "Att röra sig i vatten.",
+    "image": "/modules/sakerhet-vid-bassangen/images/simma.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/simma.mp3"
+  },
+  {
+    "id": "hoppa",
+    "word": "Hoppa",
+    "type": "verb",
+    "inflections": ["hoppar", "hoppade", "hoppat"],
+    "explanation": "Att hoppa ner i vattnet.",
+    "image": "/modules/sakerhet-vid-bassangen/images/hoppa.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/hoppa.mp3"
+  },
+  {
+    "id": "flytvast",
+    "word": "Flytväst",
+    "type": "substantiv",
+    "inflections": ["flytväst", "flytvästen", "flytvästar", "flytvästarna"],
+    "explanation": "En väst som hjälper dig att flyta.",
+    "image": "/modules/sakerhet-vid-bassangen/images/flytvast.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/flytvast.mp3"
+  },
+  {
+    "id": "sakerhet",
+    "word": "Säkerhet",
+    "type": "substantiv",
+    "inflections": ["säkerhet", "säkerheten"],
+    "explanation": "Att vara trygg och undvika fara.",
+    "image": "/modules/sakerhet-vid-bassangen/images/sakerhet.jpg",
+    "audio": "/modules/sakerhet-vid-bassangen/audio/sakerhet.mp3"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mopp",
+    "word": "Mopp",
+    "type": "substantiv",
+    "inflections": ["mopp", "moppen", "moppar", "mopparna"],
+    "explanation": "Du använder den för att städa golvet.",
+    "image": "/modules/stadning-och-underhall/images/mopp.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/mopp.mp3"
+  },
+  {
+    "id": "hink",
+    "word": "Hink",
+    "type": "substantiv",
+    "inflections": ["hink", "hinken", "hinkar", "hinkarna"],
+    "explanation": "En hink med vatten.",
+    "image": "/modules/stadning-och-underhall/images/hink.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/hink.mp3"
+  },
+  {
+    "id": "vatten",
+    "word": "Vatten",
+    "type": "substantiv",
+    "inflections": ["vatten", "vattnet"],
+    "explanation": "Du använder det för att göra rent.",
+    "image": "/modules/stadning-och-underhall/images/vatten.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/vatten.mp3"
+  },
+  {
+    "id": "smuts",
+    "word": "Smuts",
+    "type": "substantiv",
+    "inflections": ["smuts", "smutsen"],
+    "explanation": "Något som inte är rent.",
+    "image": "/modules/stadning-och-underhall/images/smuts.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/smuts.mp3"
+  },
+  {
+    "id": "rent",
+    "word": "Ren",
+    "type": "adjektiv",
+    "inflections": ["ren", "rent", "rena"],
+    "explanation": "Utan smuts.",
+    "image": "/modules/stadning-och-underhall/images/rent.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/rent.mp3"
+  },
+  {
+    "id": "torka",
+    "word": "Torka",
+    "type": "verb",
+    "inflections": ["torkar", "torkade", "torkat"],
+    "explanation": "Att göra något torrt.",
+    "image": "/modules/stadning-och-underhall/images/torka.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/torka.mp3"
+  },
+  {
+    "id": "plocka",
+    "word": "Plocka",
+    "type": "verb",
+    "inflections": ["plockar", "plockade", "plockat"],
+    "explanation": "Att ta bort saker.",
+    "image": "/modules/stadning-och-underhall/images/plocka.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/plocka.mp3"
+  },
+  {
+    "id": "avfall",
+    "word": "Avfall",
+    "type": "substantiv",
+    "inflections": ["avfall", "avfallet"],
+    "explanation": "Saker som du slänger.",
+    "image": "/modules/stadning-och-underhall/images/avfall.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/avfall.mp3"
+  },
+  {
+    "id": "sopa",
+    "word": "Sopa",
+    "type": "verb",
+    "inflections": ["sopar", "sopade", "sopat"],
+    "explanation": "Att städa golvet med en borste.",
+    "image": "/modules/stadning-och-underhall/images/sopa.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/sopa.mp3"
+  },
+  {
+    "id": "trasa",
+    "word": "Trasa",
+    "type": "substantiv",
+    "inflections": ["trasa", "trasan", "trasor", "trasorna"],
+    "explanation": "Du använder den för att torka.",
+    "image": "/modules/stadning-och-underhall/images/trasa.jpg",
+    "audio": "/modules/stadning-och-underhall/audio/trasa.mp3"
+  }
+]

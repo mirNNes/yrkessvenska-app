@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fill-1",
+    "sentence": "Följ ___.",
+    "answer": "reglerna",
+    "options": ["reglerna", "vägen", "tiden"],
+    "relatedConcepts": ["regler"],
+    "relatedPhraseId": "folj-reglerna"
+  },
+  {
+    "id": "fill-2",
+    "sentence": "Du måste ___.",
+    "answer": "duscha",
+    "options": ["duscha", "äta", "springa"],
+    "relatedConcepts": ["duscha"],
+    "relatedPhraseId": "du-maste-duscha"
+  },
+  {
+    "id": "fill-3",
+    "sentence": "Du får inte ___.",
+    "answer": "springa",
+    "options": ["springa", "simma", "stå"],
+    "relatedConcepts": ["springa"],
+    "relatedPhraseId": "du-far-inte-springa"
+  },
+  {
+    "id": "fill-4",
+    "sentence": "Det är ___.",
+    "answer": "förbjudet",
+    "options": ["förbjudet", "tillåtet", "roligt"],
+    "relatedConcepts": ["forbjudet"],
+    "relatedPhraseId": "det-ar-forbjudet"
+  },
+  {
+    "id": "fill-5",
+    "sentence": "Du får en ___.",
+    "answer": "tillsägelse",
+    "options": ["tillsägelse", "belöning", "present"],
+    "relatedConcepts": ["tillsagelse"],
+    "relatedPhraseId": "du-far-en-tillsagelse"
+  },
+  {
+    "id": "fill-6",
+    "sentence": "Ett ___ är här.",
+    "answer": "barn",
+    "options": ["barn", "rum", "djur"],
+    "relatedConcepts": ["barn"],
+    "relatedPhraseId": "ett-barn-ar-har"
+  },
+  {
+    "id": "fill-7",
+    "sentence": "En ___ är med.",
+    "answer": "vuxen",
+    "options": ["vuxen", "lärare", "vän"],
+    "relatedConcepts": ["vuxen"],
+    "relatedPhraseId": "en-vuxen-ar-med"
+  },
+  {
+    "id": "fill-8",
+    "sentence": "Du måste ___.",
+    "answer": "ansvara",
+    "options": ["ansvara", "leka", "springa"],
+    "relatedConcepts": ["ansvara"],
+    "relatedPhraseId": "du-maste-ansvara"
+  },
+  {
+    "id": "fill-9",
+    "sentence": "Det är bra ___.",
+    "answer": "ordning",
+    "options": ["ordning", "tempo", "väder"],
+    "relatedConcepts": ["ordning"],
+    "relatedPhraseId": "det-ar-bra-ordning"
+  },
+  {
+    "id": "fill-10",
+    "sentence": "Läs ___.",
+    "answer": "skylten",
+    "options": ["skylten", "boken", "texten"],
+    "relatedConcepts": ["skylt"],
+    "relatedPhraseId": "las-skylten"
+  }
+]

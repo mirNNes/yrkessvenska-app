@@ -1,0 +1,42 @@
+[
+  {
+    "id": "situation-1",
+    "prompt": "En kollega jobbar utan skydd.",
+    "targetSentence": "Använd skyddsutrustning.",
+    "wordBank": ["Använd", "skyddsutrustning"],
+    "relatedConcepts": ["skyddsutrustning"],
+    "relatedPhraseIds": ["anvand-skyddsutrustning"]
+  },
+  {
+    "id": "situation-2",
+    "prompt": "Ni börjar ett nytt arbete.",
+    "targetSentence": "Gör en riskbedömning.",
+    "wordBank": ["Gör", "en", "riskbedömning"],
+    "relatedConcepts": ["riskbedomning"],
+    "relatedPhraseIds": ["gor-en-riskbedomning"]
+  },
+  {
+    "id": "situation-3",
+    "prompt": "En kollega följer inte reglerna.",
+    "targetSentence": "Följ rutinerna.",
+    "wordBank": ["Följ", "rutinerna"],
+    "relatedConcepts": ["rutiner"],
+    "relatedPhraseIds": ["folj-rutinerna"]
+  },
+  {
+    "id": "situation-4",
+    "prompt": "En kollega lyfter fel och får ont.",
+    "targetSentence": "Tänk på ergonomin.",
+    "wordBank": ["Tänk", "på", "ergonomin"],
+    "relatedConcepts": ["ergonomi"],
+    "relatedPhraseIds": ["tank-pa-ergonomin"]
+  },
+  {
+    "id": "situation-5",
+    "prompt": "Det har hänt en olycka.",
+    "targetSentence": "Rapportera olyckan.",
+    "wordBank": ["Rapportera", "olyckan"],
+    "relatedConcepts": ["rapportera", "olycka"],
+    "relatedPhraseIds": ["rapportera-olyckan"]
+  }
+]

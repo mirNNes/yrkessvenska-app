@@ -1,0 +1,49 @@
+[
+  {
+    "id": "quiz-1",
+    "question": "Vad är en engångsentré?",
+    "options": [
+      "En biljett för ett besök",
+      "Ett kort för tio besök",
+      "En nyckel till ett skåp"
+    ],
+    "correctAnswer": "En biljett för ett besök",
+    "relatedConcepts": ["engangsentre"]
+  },
+  {
+    "id": "quiz-2",
+    "question": "Vad är ett klippkort?",
+    "options": [
+      "Ett kort som gäller för flera besök",
+      "Ett kvitto från receptionen",
+      "En regel i simhallen"
+    ],
+    "correctAnswer": "Ett kort som gäller för flera besök",
+    "relatedConcepts": ["klippkort"]
+  },
+  {
+    "id": "quiz-3",
+    "question": "Vad får kunden efter betalning?",
+    "options": ["Kvitto", "Handduk", "Badmössa"],
+    "correctAnswer": "Kvitto",
+    "relatedConcepts": ["kvitto"]
+  },
+  {
+    "id": "quiz-4",
+    "question": "Vad betyder öppettider?",
+    "options": [
+      "De tider då simhallen är öppen",
+      "Hur djupt vattnet är",
+      "Hur mycket entrén kostar"
+    ],
+    "correctAnswer": "De tider då simhallen är öppen",
+    "relatedConcepts": ["oppettider"]
+  },
+  {
+    "id": "quiz-5",
+    "question": "Var får kunden hjälp och betalar?",
+    "options": ["Reception", "Bassäng", "Omklädningsrum"],
+    "correctAnswer": "Reception",
+    "relatedConcepts": ["reception"]
+  }
+]

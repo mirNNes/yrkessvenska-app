@@ -1,0 +1,92 @@
+[
+  {
+    "id": "omkladningsrum",
+    "word": "Omklädningsrum",
+    "type": "substantiv",
+    "inflections": ["omklädningsrum", "omklädningsrummet", "omklädningsrum", "omklädningsrummen"],
+    "explanation": "Här byter gäster om.",
+    "image": "/modules/omkladningsrum/images/omkladningsrum.jpg",
+    "audio": "/modules/omkladningsrum/audio/omkladningsrum.mp3"
+  },
+  {
+    "id": "skap",
+    "word": "Skåp",
+    "type": "substantiv",
+    "inflections": ["skåp", "skåpet", "skåp", "skåpen"],
+    "explanation": "Här lägger du dina saker.",
+    "image": "/modules/omkladningsrum/images/skap.jpg",
+    "audio": "/modules/omkladningsrum/audio/skap.mp3"
+  },
+  {
+    "id": "armband",
+    "word": "Armband",
+    "type": "substantiv",
+    "inflections": ["armband", "armbandet", "armband", "armbanden"],
+    "explanation": "Du öppnar och låser skåpet med det.",
+    "image": "/modules/omkladningsrum/images/armband.jpg",
+    "audio": "/modules/omkladningsrum/audio/armband.mp3"
+  },
+  {
+    "id": "dusch",
+    "word": "Dusch",
+    "type": "substantiv",
+    "inflections": ["dusch", "duschen", "duschar", "duscharna"],
+    "explanation": "Här tvättar du dig före bad.",
+    "image": "/modules/omkladningsrum/images/dusch.jpg",
+    "audio": "/modules/omkladningsrum/audio/dusch.mp3"
+  },
+  {
+    "id": "hygien",
+    "word": "Hygien",
+    "type": "substantiv",
+    "inflections": ["hygien", "hygienen"],
+    "explanation": "Att vara ren.",
+    "image": "/modules/omkladningsrum/images/hygien.jpg",
+    "audio": "/modules/omkladningsrum/audio/hygien.mp3"
+  },
+  {
+    "id": "handduk",
+    "word": "Handduk",
+    "type": "substantiv",
+    "inflections": ["handduk", "handduken", "handdukar", "handdukarna"],
+    "explanation": "Du torkar kroppen med den.",
+    "image": "/modules/omkladningsrum/images/handduk.jpg",
+    "audio": "/modules/omkladningsrum/audio/handduk.mp3"
+  },
+  {
+    "id": "klader",
+    "word": "Kläder",
+    "type": "substantiv",
+    "inflections": ["kläder", "kläderna"],
+    "explanation": "Det du har på kroppen.",
+    "image": "/modules/omkladningsrum/images/klader.jpg",
+    "audio": "/modules/omkladningsrum/audio/klader.mp3"
+  },
+  {
+    "id": "skor",
+    "word": "Sko",
+    "type": "substantiv",
+    "inflections": ["sko", "skon", "skor", "skorna"],
+    "explanation": "Skor ska vara i skåpet.",
+    "image": "/modules/omkladningsrum/images/skor.jpg",
+    "audio": "/modules/omkladningsrum/audio/skor.mp3"
+  },
+  {
+    "id": "vardeskap",
+    "word": "Värdeskåp",
+    "type": "substantiv",
+    "inflections": ["värdeskåp", "värdeskåpet", "värdeskåp", "värdeskåpen"],
+    "explanation": "Ett skåp för viktiga saker.",
+    "image": "/modules/omkladningsrum/images/vardeskap.jpg",
+    "audio": "/modules/omkladningsrum/audio/vardeskap.mp3"
+  },
+  {
+    "id": "toalett",
+    "word": "Toalett",
+    "type": "substantiv",
+    "inflections": ["toalett", "toaletten", "toaletter", "toaletterna"],
+    "explanation": "Här går du på toaletten.",
+    "image": "/modules/omkladningsrum/images/toalett.jpg",
+    "audio": "/modules/omkladningsrum/audio/toalett.mp3"
+  }
+]

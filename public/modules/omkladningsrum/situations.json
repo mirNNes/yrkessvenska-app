@@ -1,0 +1,42 @@
+[
+  {
+    "id": "situation-1",
+    "prompt": "En gäst vet inte var hen ska byta om.",
+    "targetSentence": "Gå till omklädningsrummet.",
+    "wordBank": ["Gå", "till", "omklädningsrummet"],
+    "relatedConcepts": ["omkladningsrum"],
+    "relatedPhraseIds": ["ga-till-omkladningsrummet"]
+  },
+  {
+    "id": "situation-2",
+    "prompt": "En gäst frågar hur man låser sitt skåp.",
+    "targetSentence": "Du låser skåpet med ett armband.",
+    "wordBank": ["Du", "låser", "skåpet", "med", "ett", "armband"],
+    "relatedConcepts": ["skap", "armband"],
+    "relatedPhraseIds": ["du-laser-skapet-med-ett-armband"]
+  },
+  {
+    "id": "situation-3",
+    "prompt": "En gäst går till bassängen utan att duscha.",
+    "targetSentence": "Du måste duscha först.",
+    "wordBank": ["Du", "måste", "duscha", "först"],
+    "relatedConcepts": ["dusch", "hygien"],
+    "relatedPhraseIds": ["du-maste-duscha-forst"]
+  },
+  {
+    "id": "situation-4",
+    "prompt": "En gäst frågar var hen kan lägga sina saker.",
+    "targetSentence": "Lägg dina saker i ett skåp.",
+    "wordBank": ["Lägg", "dina", "saker", "i", "ett", "skåp"],
+    "relatedConcepts": ["skap"],
+    "relatedPhraseIds": ["lagg-dina-saker-i-ett-skap"]
+  },
+  {
+    "id": "situation-5",
+    "prompt": "En gäst går in med skor.",
+    "targetSentence": "Ta med dig skorna till skåpet.",
+    "wordBank": ["Ta", "med", "dig", "skorna", "till", "skåpet"],
+    "relatedConcepts": ["skor", "skap"],
+    "relatedPhraseIds": ["ta-med-dig-skorna-till-skapet"]
+  }
+]

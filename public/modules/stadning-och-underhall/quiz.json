@@ -1,0 +1,112 @@
+[
+  {
+    "id": "quiz-1",
+    "question": "Vad är en mopp?",
+    "options": [
+      "Ett verktyg för att städa golvet",
+      "En biljett",
+      "En livboj"
+    ],
+    "correctAnswer": "Ett verktyg för att städa golvet",
+    "relatedConcepts": ["mopp"]
+  },
+  {
+    "id": "quiz-2",
+    "question": "Vad är en hink?",
+    "options": [
+      "En behållare med vatten",
+      "En stol",
+      "En dörr"
+    ],
+    "correctAnswer": "En behållare med vatten",
+    "relatedConcepts": ["hink"]
+  },
+  {
+    "id": "quiz-3",
+    "question": "Vad använder man vatten till?",
+    "options": [
+      "För att göra rent",
+      "För att springa",
+      "För att hoppa"
+    ],
+    "correctAnswer": "För att göra rent",
+    "relatedConcepts": ["vatten"]
+  },
+  {
+    "id": "quiz-4",
+    "question": "Vad är smuts?",
+    "options": [
+      "Något som inte är rent",
+      "Något som är rent",
+      "Något som är torrt"
+    ],
+    "correctAnswer": "Något som inte är rent",
+    "relatedConcepts": ["smuts"]
+  },
+  {
+    "id": "quiz-5",
+    "question": "Vad betyder rent?",
+    "options": [
+      "Utan smuts",
+      "Fullt med vatten",
+      "Trasigt"
+    ],
+    "correctAnswer": "Utan smuts",
+    "relatedConcepts": ["rent"]
+  },
+  {
+    "id": "quiz-6",
+    "question": "Vad betyder torka?",
+    "options": [
+      "Att göra något torrt",
+      "Att göra något blött",
+      "Att kasta något"
+    ],
+    "correctAnswer": "Att göra något torrt",
+    "relatedConcepts": ["torka"]
+  },
+  {
+    "id": "quiz-7",
+    "question": "Vad betyder plocka?",
+    "options": [
+      "Att ta bort saker",
+      "Att hoppa",
+      "Att simma"
+    ],
+    "correctAnswer": "Att ta bort saker",
+    "relatedConcepts": ["plocka"]
+  },
+  {
+    "id": "quiz-8",
+    "question": "Vad är avfall?",
+    "options": [
+      "Saker som ska slängas",
+      "Saker man köper",
+      "Saker man tvättar"
+    ],
+    "correctAnswer": "Saker som ska slängas",
+    "relatedConcepts": ["avfall"]
+  },
+  {
+    "id": "quiz-9",
+    "question": "Vad betyder sopa?",
+    "options": [
+      "Att städa med en borste",
+      "Att öppna en dörr",
+      "Att tvätta händerna"
+    ],
+    "correctAnswer": "Att städa med en borste",
+    "relatedConcepts": ["sopa"]
+  },
+  {
+    "id": "quiz-10",
+    "question": "Vad är en trasa?",
+    "options": [
+      "En duk för att torka",
+      "En stol",
+      "En nyckel"
+    ],
+    "correctAnswer": "En duk för att torka",
+    "relatedConcepts": ["trasa"]
+  }
+]

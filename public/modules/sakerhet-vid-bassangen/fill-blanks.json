@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fill-1",
+    "sentence": "Det är ___ här.",
+    "answer": "halkrisk",
+    "options": ["halkrisk", "varmt", "lugnt"],
+    "relatedConcepts": ["halkrisk"],
+    "relatedPhraseId": "det-ar-halkrisk-har"
+  },
+  {
+    "id": "fill-2",
+    "sentence": "Hoppa inte från ___.",
+    "answer": "kanten",
+    "options": ["kanten", "bryggan", "trappan"],
+    "relatedConcepts": ["hoppa"],
+    "relatedPhraseId": "hoppa-inte-fran-kanten"
+  },
+  {
+    "id": "fill-3",
+    "sentence": "En ___ är här.",
+    "answer": "badvärd",
+    "options": ["badvärd", "lärare", "gäst"],
+    "relatedConcepts": ["badvard"],
+    "relatedPhraseId": "en-badvard-ar-har"
+  },
+  {
+    "id": "fill-4",
+    "sentence": "Simma ___.",
+    "answer": "försiktigt",
+    "options": ["försiktigt", "snabbt", "högt"],
+    "relatedConcepts": ["simma"],
+    "relatedPhraseId": "simma-forsiktigt"
+  },
+  {
+    "id": "fill-5",
+    "sentence": "Vattnet är ___.",
+    "answer": "djupt",
+    "options": ["djupt", "grunt", "varmt"],
+    "relatedConcepts": ["djupt_vatten"],
+    "relatedPhraseId": "vattnet-ar-djupt"
+  }
+]

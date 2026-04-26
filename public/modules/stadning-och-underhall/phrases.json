@@ -1,0 +1,62 @@
+[
+  {
+    "id": "anvand-en-mopp",
+    "text": "Använd en mopp.",
+    "explanation": "Säg detta för att städa golvet.",
+    "relatedConcepts": ["mopp"]
+  },
+  {
+    "id": "hamta-en-hink",
+    "text": "Hämta en hink.",
+    "explanation": "Säg detta när du behöver vatten.",
+    "relatedConcepts": ["hink"]
+  },
+  {
+    "id": "vi-anvander-vatten",
+    "text": "Vi använder vatten.",
+    "explanation": "Säg detta när du städar.",
+    "relatedConcepts": ["vatten"]
+  },
+  {
+    "id": "det-ar-smuts",
+    "text": "Det är smuts här.",
+    "explanation": "Säg detta när något är smutsigt.",
+    "relatedConcepts": ["smuts"]
+  },
+  {
+    "id": "nu-ar-det-rent",
+    "text": "Nu är det rent.",
+    "explanation": "Säg detta när det är klart.",
+    "relatedConcepts": ["rent"]
+  },
+  {
+    "id": "vi-maste-torka",
+    "text": "Vi måste torka.",
+    "explanation": "Säg detta när golvet är blött.",
+    "relatedConcepts": ["torka"]
+  },
+  {
+    "id": "vi-ska-plocka",
+    "text": "Vi ska plocka.",
+    "explanation": "Säg detta när saker ska bort.",
+    "relatedConcepts": ["plocka"]
+  },
+  {
+    "id": "slang-avfall",
+    "text": "Släng avfall.",
+    "explanation": "Säg detta när något ska slängas.",
+    "relatedConcepts": ["avfall"]
+  },
+  {
+    "id": "vi-ska-sopa",
+    "text": "Vi ska sopa.",
+    "explanation": "Säg detta när golvet ska städas.",
+    "relatedConcepts": ["sopa"]
+  },
+  {
+    "id": "anvand-en-trasa",
+    "text": "Använd en trasa.",
+    "explanation": "Säg detta för att torka rent.",
+    "relatedConcepts": ["trasa"]
+  }
+]

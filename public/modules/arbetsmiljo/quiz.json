@@ -1,0 +1,53 @@
+[
+  {
+    "id": "quiz-1",
+    "question": "Vad är arbetsmiljö?",
+    "options": [
+      "Hur det är på jobbet",
+      "En biljett",
+      "En räddningsutrustning"
+    ],
+    "correctAnswer": "Hur det är på jobbet",
+    "relatedConcepts": ["arbetsmiljo"]
+  },
+  {
+    "id": "quiz-2",
+    "question": "Vad är en riskbedömning?",
+    "options": [
+      "Att se vad som kan vara farligt",
+      "Att stänga receptionen",
+      "Att sälja biljetter"
+    ],
+    "correctAnswer": "Att se vad som kan vara farligt",
+    "relatedConcepts": ["riskbedomning"]
+  },
+  {
+    "id": "quiz-3",
+    "question": "Vad skyddar dig på jobbet?",
+    "options": ["Skyddsutrustning", "Handduk", "Klippkort"],
+    "correctAnswer": "Skyddsutrustning",
+    "relatedConcepts": ["skyddsutrustning"]
+  },
+  {
+    "id": "quiz-4",
+    "question": "Vad är ergonomi?",
+    "options": [
+      "Att jobba på ett bra sätt för kroppen",
+      "Att simma snabbt",
+      "Att bada före jobbet"
+    ],
+    "correctAnswer": "Att jobba på ett bra sätt för kroppen",
+    "relatedConcepts": ["ergonomi"]
+  },
+  {
+    "id": "quiz-5",
+    "question": "Vad gör du om en olycka händer?",
+    "options": [
+      "Rapportera den",
+      "Ignorera den",
+      "Gå hem"
+    ],
+    "correctAnswer": "Rapportera den",
+    "relatedConcepts": ["rapportera", "olycka"]
+  }
+]

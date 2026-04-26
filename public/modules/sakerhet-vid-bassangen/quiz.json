@@ -1,0 +1,57 @@
+[
+  {
+    "id": "quiz-1",
+    "question": "Vad gör en badvärd?",
+    "options": [
+      "Ser till att det är säkert",
+      "Säljer biljetter",
+      "Städar golvet"
+    ],
+    "correctAnswer": "Ser till att det är säkert",
+    "relatedConcepts": ["badvard"]
+  },
+  {
+    "id": "quiz-2",
+    "question": "Vad betyder halkrisk?",
+    "options": [
+      "Risk att halka",
+      "Risk att bada",
+      "Risk att simma"
+    ],
+    "correctAnswer": "Risk att halka",
+    "relatedConcepts": ["halkrisk"]
+  },
+  {
+    "id": "quiz-3",
+    "question": "Vad använder man en livboj till?",
+    "options": [
+      "Att hjälpa en person i vattnet",
+      "Att sitta på",
+      "Att tvätta sig"
+    ],
+    "correctAnswer": "Att hjälpa en person i vattnet",
+    "relatedConcepts": ["livboj"]
+  },
+  {
+    "id": "quiz-4",
+    "question": "Vad är djupt vatten?",
+    "options": [
+      "Vatten som är mycket djupt",
+      "Vatten som är varmt",
+      "Vatten som är kallt"
+    ],
+    "correctAnswer": "Vatten som är mycket djupt",
+    "relatedConcepts": ["djupt_vatten"]
+  },
+  {
+    "id": "quiz-5",
+    "question": "Vad är säkerhet?",
+    "options": [
+      "Att vara trygg och undvika fara",
+      "Att simma snabbt",
+      "Att hoppa högt"
+    ],
+    "correctAnswer": "Att vara trygg och undvika fara",
+    "relatedConcepts": ["sakerhet"]
+  }
+]

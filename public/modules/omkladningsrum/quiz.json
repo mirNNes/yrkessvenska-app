@@ -1,0 +1,57 @@
+[
+  {
+    "id": "quiz-1",
+    "question": "Vad är ett omklädningsrum?",
+    "options": [
+      "Ett rum där man byter om",
+      "En bassäng",
+      "En reception"
+    ],
+    "correctAnswer": "Ett rum där man byter om",
+    "relatedConcepts": ["omkladningsrum"]
+  },
+  {
+    "id": "quiz-2",
+    "question": "Vad använder du för att låsa skåpet?",
+    "options": [
+      "Armband",
+      "Handduk",
+      "Skor"
+    ],
+    "correctAnswer": "Armband",
+    "relatedConcepts": ["armband"]
+  },
+  {
+    "id": "quiz-3",
+    "question": "Vad måste du göra före bad?",
+    "options": [
+      "Duscha",
+      "Springa",
+      "Äta"
+    ],
+    "correctAnswer": "Duscha",
+    "relatedConcepts": ["dusch"]
+  },
+  {
+    "id": "quiz-4",
+    "question": "Var lägger du dina saker?",
+    "options": [
+      "I ett skåp",
+      "På golvet",
+      "I bassängen"
+    ],
+    "correctAnswer": "I ett skåp",
+    "relatedConcepts": ["skap"]
+  },
+  {
+    "id": "quiz-5",
+    "question": "Vad gör du med skorna?",
+    "options": [
+      "Tar med dem till skåpet",
+      "Har dem i bassängen",
+      "Lämnar dem ute"
+    ],
+    "correctAnswer": "Tar med dem till skåpet",
+    "relatedConcepts": ["skor"]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "folj-reglerna",
+    "text": "Följ reglerna.",
+    "explanation": "Säg detta när någon ska följa regler.",
+    "relatedConcepts": ["regler"]
+  },
+  {
+    "id": "du-maste-duscha",
+    "text": "Du måste duscha.",
+    "explanation": "Säg detta före bad.",
+    "relatedConcepts": ["duscha"]
+  },
+  {
+    "id": "du-far-inte-springa",
+    "text": "Du får inte springa.",
+    "explanation": "Säg detta när någon springer.",
+    "relatedConcepts": ["springa"]
+  },
+  {
+    "id": "det-ar-forbjudet",
+    "text": "Det är förbjudet.",
+    "explanation": "Säg detta när något inte är tillåtet.",
+    "relatedConcepts": ["forbjudet"]
+  },
+  {
+    "id": "du-far-en-tillsagelse",
+    "text": "Du får en tillsägelse.",
+    "explanation": "Säg detta när någon inte följer regler.",
+    "relatedConcepts": ["tillsagelse"]
+  },
+  {
+    "id": "ett-barn-ar-har",
+    "text": "Ett barn är här.",
+    "explanation": "Säg detta om ett barn.",
+    "relatedConcepts": ["barn"]
+  },
+  {
+    "id": "en-vuxen-ar-med",
+    "text": "En vuxen är med.",
+    "explanation": "Säg detta när en vuxen är ansvarig.",
+    "relatedConcepts": ["vuxen"]
+  },
+  {
+    "id": "du-maste-ansvara",
+    "text": "Du måste ansvara.",
+    "explanation": "Säg detta till en vuxen.",
+    "relatedConcepts": ["ansvara"]
+  },
+  {
+    "id": "det-ar-bra-ordning",
+    "text": "Det är bra ordning.",
+    "explanation": "Säg detta när allt fungerar bra.",
+    "relatedConcepts": ["ordning"]
+  },
+  {
+    "id": "las-skylten",
+    "text": "Läs skylten.",
+    "explanation": "Säg detta när någon ska läsa regler.",
+    "relatedConcepts": ["skylt"]
+  }
+]

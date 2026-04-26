@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fill-1",
+    "sentence": "Använd en ___.",
+    "answer": "mopp",
+    "options": ["mopp", "borste", "trasa"],
+    "relatedConcepts": ["mopp"],
+    "relatedPhraseId": "anvand-en-mopp"
+  },
+  {
+    "id": "fill-2",
+    "sentence": "Hämta en ___.",
+    "answer": "hink",
+    "options": ["hink", "påse", "låda"],
+    "relatedConcepts": ["hink"],
+    "relatedPhraseId": "hamta-en-hink"
+  },
+  {
+    "id": "fill-3",
+    "sentence": "Vi använder ___.",
+    "answer": "vatten",
+    "options": ["vatten", "såpa", "olja"],
+    "relatedConcepts": ["vatten"],
+    "relatedPhraseId": "vi-anvander-vatten"
+  },
+  {
+    "id": "fill-4",
+    "sentence": "Det är ___.",
+    "answer": "smuts",
+    "options": ["smuts", "rent", "fint"],
+    "relatedConcepts": ["smuts"],
+    "relatedPhraseId": "det-ar-smuts"
+  },
+  {
+    "id": "fill-5",
+    "sentence": "Nu är det ___.",
+    "answer": "rent",
+    "options": ["rent", "smutsigt", "blött"],
+    "relatedConcepts": ["rent"],
+    "relatedPhraseId": "nu-ar-det-rent"
+  },
+  {
+    "id": "fill-6",
+    "sentence": "Vi måste ___.",
+    "answer": "torka",
+    "options": ["torka", "springa", "sova"],
+    "relatedConcepts": ["torka"],
+    "relatedPhraseId": "vi-maste-torka"
+  },
+  {
+    "id": "fill-7",
+    "sentence": "Vi ska ___.",
+    "answer": "plocka",
+    "options": ["plocka", "leka", "sitta"],
+    "relatedConcepts": ["plocka"],
+    "relatedPhraseId": "vi-ska-plocka"
+  },
+  {
+    "id": "fill-8",
+    "sentence": "Släng ___.",
+    "answer": "avfall",
+    "options": ["avfall", "kläder", "vatten"],
+    "relatedConcepts": ["avfall"],
+    "relatedPhraseId": "slang-avfall"
+  },
+  {
+    "id": "fill-9",
+    "sentence": "Vi ska ___.",
+    "answer": "sopa",
+    "options": ["sopa", "tvätta", "springa"],
+    "relatedConcepts": ["sopa"],
+    "relatedPhraseId": "vi-ska-sopa"
+  },
+  {
+    "id": "fill-10",
+    "sentence": "Använd en ___.",
+    "answer": "trasa",
+    "options": ["trasa", "mopp", "svamp"],
+    "relatedConcepts": ["trasa"],
+    "relatedPhraseId": "anvand-en-trasa"
+  }
+]

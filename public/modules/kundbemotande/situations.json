@@ -1,0 +1,42 @@
+[
+  {
+    "id": "situation-1",
+    "prompt": "En kund kommer till dig.",
+    "targetSentence": "Hej, hur kan jag hjälpa dig?",
+    "wordBank": ["Hej,", "hur", "kan", "jag", "hjälpa", "dig?"],
+    "relatedConcepts": ["hjalpa", "service"],
+    "relatedPhraseIds": ["hej-hur-kan-jag-hjalpa-dig"]
+  },
+  {
+    "id": "situation-2",
+    "prompt": "En kund är inte nöjd.",
+    "targetSentence": "Jag ska hjälpa dig.",
+    "wordBank": ["Jag", "ska", "hjälpa", "dig"],
+    "relatedConcepts": ["klagomal", "bemotande"],
+    "relatedPhraseIds": ["jag-ska-hjalpa-dig"]
+  },
+  {
+    "id": "situation-3",
+    "prompt": "En kund frågar något.",
+    "targetSentence": "Jag ger dig information.",
+    "wordBank": ["Jag", "ger", "dig", "information"],
+    "relatedConcepts": ["information"],
+    "relatedPhraseIds": ["jag-ger-dig-information"]
+  },
+  {
+    "id": "situation-4",
+    "prompt": "Du vill vara snäll mot kunden.",
+    "targetSentence": "Jag är vänlig och visar respekt.",
+    "wordBank": ["Jag", "är", "vänlig", "och", "visar", "respekt"],
+    "relatedConcepts": ["vänlig", "respekt"],
+    "relatedPhraseIds": ["var-vanlig-mot-kunden"]
+  },
+  {
+    "id": "situation-5",
+    "prompt": "En kund hittar inte rätt plats.",
+    "targetSentence": "Jag visar dig vägen.",
+    "wordBank": ["Jag", "visar", "dig", "vägen"],
+    "relatedConcepts": ["service", "hjalpa"],
+    "relatedPhraseIds": ["jag-visar-dig-vagen"]
+  }
+]

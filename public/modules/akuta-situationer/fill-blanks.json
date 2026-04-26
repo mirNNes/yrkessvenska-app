@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fill-1",
+    "sentence": "Ring ___.",
+    "answer": "112",
+    "options": ["112", "114", "1177"],
+    "relatedConcepts": ["nodsituation", "larma"],
+    "relatedPhraseId": "ring-112"
+  },
+  {
+    "id": "fill-2",
+    "sentence": "Ta en ___.",
+    "answer": "livboj",
+    "options": ["livboj", "handduk", "boll"],
+    "relatedConcepts": ["livboj"],
+    "relatedPhraseId": "ta-livboj"
+  },
+  {
+    "id": "fill-3",
+    "sentence": "Använd ___.",
+    "answer": "räddningskroken",
+    "options": ["räddningskroken", "stegen", "båten"],
+    "relatedConcepts": ["raddningskrok"],
+    "relatedPhraseId": "anvand-raddningskrok"
+  },
+  {
+    "id": "fill-4",
+    "sentence": "Personen är ___.",
+    "answer": "medvetslös",
+    "options": ["medvetslös", "glad", "trött"],
+    "relatedConcepts": ["medvetslos"],
+    "relatedPhraseId": "personen-ar-medvetslos"
+  },
+  {
+    "id": "fill-5",
+    "sentence": "Kontrollera ___.",
+    "answer": "andningen",
+    "options": ["andningen", "temperaturen", "pulsen"],
+    "relatedConcepts": ["andning"],
+    "relatedPhraseId": "kontrollera-andningen"
+  },
+  {
+    "id": "fill-6",
+    "sentence": "Börja med ___.",
+    "answer": "HLR",
+    "options": ["HLR", "simning", "vila"],
+    "relatedConcepts": ["hlr"],
+    "relatedPhraseId": "borja-med-hlr"
+  },
+  {
+    "id": "fill-7",
+    "sentence": "Var ___.",
+    "answer": "lugn",
+    "options": ["lugn", "arg", "stressad"],
+    "relatedConcepts": ["nodsituation"],
+    "relatedPhraseId": "var-lugn"
+  },
+  {
+    "id": "fill-8",
+    "sentence": "Vi ___ dig.",
+    "answer": "hjälper",
+    "options": ["hjälper", "ringer", "ser"],
+    "relatedConcepts": ["forsta_hjalpen"],
+    "relatedPhraseId": "vi-hjalper-dig"
+  },
+  {
+    "id": "fill-9",
+    "sentence": "Lämna ___.",
+    "answer": "bassängen",
+    "options": ["bassängen", "rummet", "huset"],
+    "relatedConcepts": ["nodsituation"],
+    "relatedPhraseId": "lamna-bassangen"
+  },
+  {
+    "id": "fill-10",
+    "sentence": "Vi behöver en ___.",
+    "answer": "ambulans",
+    "options": ["ambulans", "taxi", "buss"],
+    "relatedConcepts": ["nodsituation", "larma"],
+    "relatedPhraseId": "vi-behover-ambulans"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "situation-1",
+    "prompt": "En person ligger stilla och reagerar inte.",
+    "targetSentence": "Personen är medvetslös.",
+    "wordBank": ["Personen", "är", "medvetslös"],
+    "relatedConcepts": ["medvetslos"],
+    "relatedPhraseIds": ["personen-ar-medvetslos"]
+  },
+  {
+    "id": "situation-2",
+    "prompt": "En person andas inte.",
+    "targetSentence": "Börja med HLR!",
+    "wordBank": ["Börja", "med", "HLR!"],
+    "relatedConcepts": ["hlr"],
+    "relatedPhraseIds": ["borja-med-hlr"]
+  },
+  {
+    "id": "situation-3",
+    "prompt": "Det är en nödsituation.",
+    "targetSentence": "Ring 112!",
+    "wordBank": ["Ring", "112!"],
+    "relatedConcepts": ["nodsituation", "larma"],
+    "relatedPhraseIds": ["ring-112"]
+  },
+  {
+    "id": "situation-4",
+    "prompt": "En person behöver hjälp i vattnet.",
+    "targetSentence": "Ta en livboj!",
+    "wordBank": ["Ta", "en", "livboj!"],
+    "relatedConcepts": ["livboj", "livraddning"],
+    "relatedPhraseIds": ["ta-livboj"]
+  },
+  {
+    "id": "situation-5",
+    "prompt": "Du vill att någon ska kontrollera andning.",
+    "targetSentence": "Kontrollera andningen.",
+    "wordBank": ["Kontrollera", "andningen"],
+    "relatedConcepts": ["andning"],
+    "relatedPhraseIds": ["kontrollera-andningen"]
+  },
+  {
+    "id": "situation-6",
+    "prompt": "Du behöver nå en person från kanten.",
+    "targetSentence": "Använd räddningskroken!",
+    "wordBank": ["Använd", "räddningskroken!"],
+    "relatedConcepts": ["raddningskrok"],
+    "relatedPhraseIds": ["anvand-raddningskrok"]
+  },
+  {
+    "id": "situation-7",
+    "prompt": "Många personer står nära en olycka.",
+    "targetSentence": "Lämna bassängen!",
+    "wordBank": ["Lämna", "bassängen!"],
+    "relatedConcepts": ["nodsituation"],
+    "relatedPhraseIds": ["lamna-bassangen"]
+  },
+  {
+    "id": "situation-8",
+    "prompt": "En person är rädd.",
+    "targetSentence": "Var lugn.",
+    "wordBank": ["Var", "lugn"],
+    "relatedConcepts": ["nodsituation"],
+    "relatedPhraseIds": ["var-lugn"]
+  },
+  {
+    "id": "situation-9",
+    "prompt": "Du vill visa att hjälp är på väg.",
+    "targetSentence": "Vi hjälper dig.",
+    "wordBank": ["Vi", "hjälper", "dig"],
+    "relatedConcepts": ["forsta_hjalpen"],
+    "relatedPhraseIds": ["vi-hjalper-dig"]
+  },
+  {
+    "id": "situation-10",
+    "prompt": "Du pratar med 112.",
+    "targetSentence": "Vi behöver en ambulans.",
+    "wordBank": ["Vi", "behöver", "en", "ambulans"],
+    "relatedConcepts": ["nodsituation", "larma"],
+    "relatedPhraseIds": ["vi-behover-ambulans"]
+  }
+]

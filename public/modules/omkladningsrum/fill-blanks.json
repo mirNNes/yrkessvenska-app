@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fill-1",
+    "sentence": "Gå till ___.",
+    "answer": "omklädningsrummet",
+    "options": ["omklädningsrummet", "receptionen", "bassängen"],
+    "relatedConcepts": ["omkladningsrum"],
+    "relatedPhraseId": "ga-till-omkladningsrummet"
+  },
+  {
+    "id": "fill-2",
+    "sentence": "Du låser skåpet med ett ___.",
+    "answer": "armband",
+    "options": ["armband", "nyckel", "kort"],
+    "relatedConcepts": ["armband"],
+    "relatedPhraseId": "du-laser-skapet-med-ett-armband"
+  },
+  {
+    "id": "fill-3",
+    "sentence": "Du måste ___ först.",
+    "answer": "duscha",
+    "options": ["duscha", "springa", "äta"],
+    "relatedConcepts": ["dusch"],
+    "relatedPhraseId": "du-maste-duscha-forst"
+  },
+  {
+    "id": "fill-4",
+    "sentence": "Lägg dina saker i ett ___.",
+    "answer": "skåp",
+    "options": ["skåp", "rum", "fack"],
+    "relatedConcepts": ["skap"],
+    "relatedPhraseId": "lagg-dina-saker-i-ett-skap"
+  },
+  {
+    "id": "fill-5",
+    "sentence": "Ta med dig ___ till skåpet.",
+    "answer": "skorna",
+    "options": ["skorna", "handduken", "väskan"],
+    "relatedConcepts": ["skor"],
+    "relatedPhraseId": "ta-med-dig-skorna-till-skapet"
+  }
+]

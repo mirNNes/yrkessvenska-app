@@ -1,0 +1,57 @@
+[
+  {
+    "id": "quiz-1",
+    "question": "Vad är service?",
+    "options": [
+      "Att hjälpa kunder på ett bra sätt",
+      "Att städa golvet",
+      "Att simma snabbt"
+    ],
+    "correctAnswer": "Att hjälpa kunder på ett bra sätt",
+    "relatedConcepts": ["service"]
+  },
+  {
+    "id": "quiz-2",
+    "question": "Vad är bemötande?",
+    "options": [
+      "Hur du är mot kunden",
+      "Hur du städar",
+      "Hur du simmar"
+    ],
+    "correctAnswer": "Hur du är mot kunden",
+    "relatedConcepts": ["bemotande"]
+  },
+  {
+    "id": "quiz-3",
+    "question": "Vad betyder vänlig?",
+    "options": [
+      "Snäll och trevlig",
+      "Arg och otrevlig",
+      "Tyst och ensam"
+    ],
+    "correctAnswer": "Snäll och trevlig",
+    "relatedConcepts": ["vänlig"]
+  },
+  {
+    "id": "quiz-4",
+    "question": "Vad är ett klagomål?",
+    "options": [
+      "När kunden säger att något är fel",
+      "När kunden är glad",
+      "När kunden betalar"
+    ],
+    "correctAnswer": "När kunden säger att något är fel",
+    "relatedConcepts": ["klagomal"]
+  },
+  {
+    "id": "quiz-5",
+    "question": "Vad är respekt?",
+    "options": [
+      "Att vara snäll och visa hänsyn",
+      "Att ignorera andra",
+      "Att springa vid bassängen"
+    ],
+    "correctAnswer": "Att vara snäll och visa hänsyn",
+    "relatedConcepts": ["respekt"]
+  }
+]

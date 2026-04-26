@@ -1,0 +1,92 @@
+[
+  {
+    "id": "regler",
+    "word": "Regel",
+    "type": "substantiv",
+    "inflections": ["regel", "regeln", "regler", "reglerna"],
+    "explanation": "Saker som alla måste följa i simhallen.",
+    "image": "/modules/simhallens-regler/images/regler.jpg",
+    "audio": "/modules/simhallens-regler/audio/regler.mp3"
+  },
+  {
+    "id": "duscha",
+    "word": "Duscha",
+    "type": "verb",
+    "inflections": ["duschar", "duschade", "duschat"],
+    "explanation": "Att tvätta kroppen före bad.",
+    "image": "/modules/simhallens-regler/images/duscha.jpg",
+    "audio": "/modules/simhallens-regler/audio/duscha.mp3"
+  },
+  {
+    "id": "springa",
+    "word": "Springa",
+    "type": "verb",
+    "inflections": ["springer", "sprang", "sprungit"],
+    "explanation": "Att gå mycket snabbt med benen.",
+    "image": "/modules/simhallens-regler/images/springa.jpg",
+    "audio": "/modules/simhallens-regler/audio/springa.mp3"
+  },
+  {
+    "id": "forbjudet",
+    "word": "Förbjuden",
+    "type": "adjektiv",
+    "inflections": ["förbjuden", "förbjudet", "förbjudna"],
+    "explanation": "Något som man inte får göra.",
+    "image": "/modules/simhallens-regler/images/forbjudet.jpg",
+    "audio": "/modules/simhallens-regler/audio/forbjudet.mp3"
+  },
+  {
+    "id": "tillsagelse",
+    "word": "Tillsägelse",
+    "type": "substantiv",
+    "inflections": ["tillsägelse", "tillsägelsen", "tillsägelser", "tillsägelserna"],
+    "explanation": "När personal säger att du måste sluta.",
+    "image": "/modules/simhallens-regler/images/tillsagelse.jpg",
+    "audio": "/modules/simhallens-regler/audio/tillsagelse.mp3"
+  },
+  {
+    "id": "barn",
+    "word": "Barn",
+    "type": "substantiv",
+    "inflections": ["barn", "barnet", "barn", "barnen"],
+    "explanation": "En ung person.",
+    "image": "/modules/simhallens-regler/images/barn.jpg",
+    "audio": "/modules/simhallens-regler/audio/barn.mp3"
+  },
+  {
+    "id": "vuxen",
+    "word": "Vuxen",
+    "type": "substantiv",
+    "inflections": ["vuxen", "vuxna", "vuxna", "vuxna"],
+    "explanation": "En person som inte är barn.",
+    "image": "/modules/simhallens-regler/images/vuxen.jpg",
+    "audio": "/modules/simhallens-regler/audio/vuxen.mp3"
+  },
+  {
+    "id": "ansvara",
+    "word": "Ansvara",
+    "type": "verb",
+    "inflections": ["ansvarar", "ansvarade", "ansvarat"],
+    "explanation": "Att ta hand om något eller någon.",
+    "image": "/modules/simhallens-regler/images/ansvara.jpg",
+    "audio": "/modules/simhallens-regler/audio/ansvara.mp3"
+  },
+  {
+    "id": "ordning",
+    "word": "Ordning",
+    "type": "substantiv",
+    "inflections": ["ordning", "ordningen", "ordningar", "ordningarna"],
+    "explanation": "När allt är lugnt och fungerar bra.",
+    "image": "/modules/simhallens-regler/images/ordning.jpg",
+    "audio": "/modules/simhallens-regler/audio/ordning.mp3"
+  },
+  {
+    "id": "skylt",
+    "word": "Skylt",
+    "type": "substantiv",
+    "inflections": ["skylt", "skylten", "skyltar", "skyltarna"],
+    "explanation": "En skylt visar viktig information eller regler.",
+    "image": "/modules/simhallens-regler/images/skylt.jpg",
+    "audio": "/modules/simhallens-regler/audio/skylt.mp3"
+  }
+]

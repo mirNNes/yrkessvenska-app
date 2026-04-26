@@ -1,0 +1,82 @@
+[
+  {
+    "id": "valkommen-till-entreen",
+    "text": "Välkommen till entrén.",
+    "explanation": "Används när en kund kommer in.",
+    "relatedConcepts": ["entre"],
+    "audio": "/modules/kassa-och-entre/audio/valkommen-till-entreen.mp3",
+    "image": "/modules/kassa-och-entre/images/entre.jpg"
+  },
+  {
+    "id": "vill-du-ha-engangsentre",
+    "text": "Vill du ha en engångsentré?",
+    "explanation": "Används när personalen frågar kunden om biljett.",
+    "relatedConcepts": ["engangsentre"],
+    "audio": "/modules/kassa-och-entre/audio/vill-du-ha-engangsentre.mp3",
+    "image": "/modules/kassa-och-entre/images/engangsentre.jpg"
+  },
+  {
+    "id": "har-du-klippkort",
+    "text": "Har du ett klippkort?",
+    "explanation": "Används när personalen frågar om kunden har ett kort för flera besök.",
+    "relatedConcepts": ["klippkort"],
+    "audio": "/modules/kassa-och-entre/audio/har-du-klippkort.mp3",
+    "image": "/modules/kassa-och-entre/images/klippkort.jpg"
+  },
+  {
+    "id": "har-du-medlemskap",
+    "text": "Har du medlemskap?",
+    "explanation": "Används när personalen frågar om kunden är medlem.",
+    "relatedConcepts": ["medlemskap"],
+    "audio": "/modules/kassa-och-entre/audio/har-du-medlemskap.mp3",
+    "image": "/modules/kassa-och-entre/images/medlemskap.jpg"
+  },
+  {
+    "id": "du-kan-betala-har",
+    "text": "Du kan betala här.",
+    "explanation": "Används när kunden ska betala.",
+    "relatedConcepts": ["betalning"],
+    "audio": "/modules/kassa-och-entre/audio/du-kan-betala-har.mp3",
+    "image": "/modules/kassa-och-entre/images/betalning.jpg"
+  },
+  {
+    "id": "det-gar-bra-med-kort",
+    "text": "Det går bra med kort.",
+    "explanation": "Används när kunden vill betala med kort.",
+    "relatedConcepts": ["kortbetalning"],
+    "audio": "/modules/kassa-och-entre/audio/det-gar-bra-med-kort.mp3",
+    "image": "/modules/kassa-och-entre/images/kortbetalning.jpg"
+  },
+  {
+    "id": "har-ar-ditt-kvitto",
+    "text": "Här är ditt kvitto.",
+    "explanation": "Används efter att kunden har betalat.",
+    "relatedConcepts": ["kvitto"],
+    "audio": "/modules/kassa-och-entre/audio/har-ar-ditt-kvitto.mp3",
+    "image": "/modules/kassa-och-entre/images/kvitto.jpg"
+  },
+  {
+    "id": "detta-ar-priset",
+    "text": "Detta är priset.",
+    "explanation": "Används när personalen berättar vad något kostar.",
+    "relatedConcepts": ["pris"],
+    "audio": "/modules/kassa-och-entre/audio/detta-ar-priset.mp3",
+    "image": "/modules/kassa-och-entre/images/pris.jpg"
+  },
+  {
+    "id": "las-vara-oppettider",
+    "text": "Läs våra öppettider på hemsidan.",
+    "explanation": "Används när kunden frågar när simhallen är öppen.",
+    "relatedConcepts": ["oppettider"],
+    "audio": "/modules/kassa-och-entre/audio/las-vara-oppettider.mp3",
+    "image": "/modules/kassa-och-entre/images/oppettider.jpg"
+  },
+  {
+    "id": "fraga-i-receptionen",
+    "text": "Fråga i receptionen.",
+    "explanation": "Används när kunden behöver mer hjälp.",
+    "relatedConcepts": ["reception"],
+    "audio": "/modules/kassa-och-entre/audio/fraga-i-receptionen.mp3",
+    "image": "/modules/kassa-och-entre/images/reception.jpg"
+  }
+]

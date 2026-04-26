@@ -1,0 +1,92 @@
+[
+  {
+    "id": "arbetsplats",
+    "word": "Arbetsplats",
+    "type": "substantiv",
+    "inflections": ["arbetsplats", "arbetsplatsen", "arbetsplatser", "arbetsplatserna"],
+    "explanation": "Platsen där du jobbar.",
+    "image": "/modules/arbetsmiljo/images/arbetsplats.jpg",
+    "audio": "/modules/arbetsmiljo/audio/arbetsplats.mp3"
+  },
+  {
+    "id": "arbetsmiljo",
+    "word": "Arbetsmiljö",
+    "type": "substantiv",
+    "inflections": ["arbetsmiljö", "arbetsmiljön", "arbetsmiljöer", "arbetsmiljöerna"],
+    "explanation": "Hur det är på jobbet.",
+    "image": "/modules/arbetsmiljo/images/arbetsmiljo.jpg",
+    "audio": "/modules/arbetsmiljo/audio/arbetsmiljo.mp3"
+  },
+  {
+    "id": "sakerhet",
+    "word": "Säkerhet",
+    "type": "substantiv",
+    "inflections": ["säkerhet", "säkerheten"],
+    "explanation": "Att jobbet är tryggt och säkert.",
+    "image": "/modules/arbetsmiljo/images/sakerhet.jpg",
+    "audio": "/modules/arbetsmiljo/audio/sakerhet.mp3"
+  },
+  {
+    "id": "riskbedomning",
+    "word": "Riskbedömning",
+    "type": "substantiv",
+    "inflections": ["riskbedömning", "riskbedömningen", "riskbedömningar", "riskbedömningarna"],
+    "explanation": "Att se vad som kan vara farligt.",
+    "image": "/modules/arbetsmiljo/images/riskbedomning.jpg",
+    "audio": "/modules/arbetsmiljo/audio/riskbedomning.mp3"
+  },
+  {
+    "id": "skyddsutrustning",
+    "word": "Skyddsutrustning",
+    "type": "substantiv",
+    "inflections": ["skyddsutrustning", "skyddsutrustningen"],
+    "explanation": "Saker som skyddar dig på jobbet.",
+    "image": "/modules/arbetsmiljo/images/skyddsutrustning.jpg",
+    "audio": "/modules/arbetsmiljo/audio/skyddsutrustning.mp3"
+  },
+  {
+    "id": "olycka",
+    "word": "Olycka",
+    "type": "substantiv",
+    "inflections": ["olycka", "olyckan", "olyckor", "olyckorna"],
+    "explanation": "När något går fel och någon kan skadas.",
+    "image": "/modules/arbetsmiljo/images/olycka.jpg",
+    "audio": "/modules/arbetsmiljo/audio/olycka.mp3"
+  },
+  {
+    "id": "rutiner",
+    "word": "Rutin",
+    "type": "substantiv",
+    "inflections": ["rutin", "rutinen", "rutiner", "rutinerna"],
+    "explanation": "Samma sätt att göra jobbet varje gång.",
+    "image": "/modules/arbetsmiljo/images/rutiner.jpg",
+    "audio": "/modules/arbetsmiljo/audio/rutiner.mp3"
+  },
+  {
+    "id": "ansvar",
+    "word": "Ansvar",
+    "type": "substantiv",
+    "inflections": ["ansvar", "ansvaret"],
+    "explanation": "Det du ska göra på jobbet.",
+    "image": "/modules/arbetsmiljo/images/ansvar.jpg",
+    "audio": "/modules/arbetsmiljo/audio/ansvar.mp3"
+  },
+  {
+    "id": "ergonomi",
+    "word": "Ergonomi",
+    "type": "substantiv",
+    "inflections": ["ergonomi", "ergonomin"],
+    "explanation": "Att jobba på ett bra sätt för kroppen.",
+    "image": "/modules/arbetsmiljo/images/ergonomi.jpg",
+    "audio": "/modules/arbetsmiljo/audio/ergonomi.mp3"
+  },
+  {
+    "id": "rapportera",
+    "word": "Rapportera",
+    "type": "verb",
+    "inflections": ["rapporterar", "rapporterade", "rapporterat"],
+    "explanation": "Att berätta om något som har hänt.",
+    "image": "/modules/arbetsmiljo/images/rapportera.jpg",
+    "audio": "/modules/arbetsmiljo/audio/rapportera.mp3"
+  }
+]

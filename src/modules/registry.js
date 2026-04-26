@@ -1,0 +1,61 @@
+export const moduleRegistry = [
+  {
+    id: "sakerhet-vid-bassangen",
+    title: "Säkerhet vid bassängen",
+    description: "Lär dig ord och fraser om säkerhet i simhallen.",
+    level: "A1-A2",
+    category: "Simhall",
+  },
+  {
+    id: "akuta-situationer",
+    title: "Akuta situationer",
+    description: "Lär dig vad du säger och gör vid olyckor.",
+    level: "A1-A2",
+    category: "Säkerhet",
+  },
+  {
+    id: "kundbemotande",
+    title: "Kundbemötande",
+    description: "Träna svenska för att hjälpa och prata med besökare.",
+    level: "A1-A2",
+    category: "Service",
+  },
+  {
+    id: "kassa-och-entre",
+    title: "Kassa och entré",
+    description: "Öva ord och meningar om inträde, priser och betalning.",
+    level: "A1-A2",
+    category: "Service",
+  },
+  {
+    id: "omkladningsrum",
+    title: "Omklädningsrum",
+    description: "Lär dig svenska ord och uttryck i omklädningsrummet.",
+    level: "A1-A2",
+    category: "Simhall",
+  },
+  {
+    id: "simhallens-regler",
+    title: "Simhallens regler",
+    description: "Lär dig regler och vad du får och inte får göra.",
+    level: "A1-A2",
+    category: "Simhall",
+  },
+  {
+    id: "stadning-och-underhall",
+    title: "Städning och underhåll",
+    description: "Lär dig ord och fraser för städning och arbete.",
+    level: "A1-A2",
+    category: "Arbete",
+  },
+  {
+    id: "arbetsmiljo",
+    title: "Arbetsmiljö",
+    description: "Lär dig om säkerhet och arbete på jobbet.",
+    level: "A1-A2",
+    category: "Arbete",
+  },
+].map((module) => ({
+  ...module,
+  image: `/modules/${module.id}/images/cover.jpg`,
+}));

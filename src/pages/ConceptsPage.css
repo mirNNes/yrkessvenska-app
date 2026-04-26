@@ -1,0 +1,190 @@
+.concepts-page {
+  min-height: 100vh;
+  padding: 24px;
+  background: #f5f7fb;
+  color: #1f2937;
+}
+
+.concepts-header {
+  max-width: 900px;
+  margin: 0 auto 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.back-link {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+.progress-text {
+  font-size: 0.95rem;
+  color: #6b7280;
+}
+
+.progress-bar {
+  max-width: 900px;
+  height: 10px;
+  margin: 0 auto 24px;
+  background: #e5e7eb;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress-bar__fill {
+  height: 100%;
+  background: #2563eb;
+  border-radius: 999px;
+  transition: width 0.25s ease;
+}
+
+.concept-card {
+  max-width: 900px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 24px;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.concept-image-box {
+  min-height: 360px;
+  background: #eef2ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.concept-image-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.concept-image-box span {
+  color: #6b7280;
+}
+
+.concept-content {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.concept-type {
+  width: fit-content;
+  margin-bottom: 12px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #dbeafe;
+  color: #1d4ed8;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.concept-content h1 {
+  margin: 0 0 16px;
+  font-size: 3rem;
+  line-height: 1.1;
+}
+
+.concept-content p {
+  margin: 0 0 28px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #4b5563;
+}
+
+.audio-button {
+  align-self: flex-start;
+  padding: 14px 22px;
+  border: none;
+  border-radius: 14px;
+  background: #2563eb;
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.audio-button:hover:not(:disabled) {
+  background: #1d4ed8;
+}
+
+.audio-button:disabled {
+  background: #cbd5e1;
+  cursor: not-allowed;
+}
+
+.concept-navigation {
+  max-width: 900px;
+  margin: 24px auto 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.concept-navigation button {
+  flex: 1;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 16px;
+  background: #111827;
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.concept-navigation button:hover:not(:disabled) {
+  background: #374151;
+}
+
+.concept-navigation button:disabled {
+  background: #d1d5db;
+  color: #6b7280;
+  cursor: not-allowed;
+}
+
+.status-text {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 1.2rem;
+  color: #6b7280;
+}
+
+@media (max-width: 760px) {
+  .concepts-page {
+    padding: 16px;
+  }
+
+  .concept-card {
+    grid-template-columns: 1fr;
+  }
+
+  .concept-image-box {
+    min-height: 240px;
+  }
+
+  .concept-content {
+    padding: 28px;
+  }
+
+  .concept-content h1 {
+    font-size: 2.3rem;
+  }
+
+  .concept-navigation {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "situation-1",
+    "prompt": "En kund kommer in i simhallen.",
+    "targetSentence": "Välkommen till entrén.",
+    "wordBank": ["Välkommen", "till", "entrén"],
+    "relatedConcepts": ["entre"],
+    "relatedPhraseIds": ["valkommen-till-entreen"]
+  },
+  {
+    "id": "situation-2",
+    "prompt": "En kund vill köpa biljett.",
+    "targetSentence": "Vill du ha en engångsentré?",
+    "wordBank": ["Vill", "du", "ha", "en", "engångsentré?"],
+    "relatedConcepts": ["engangsentre"],
+    "relatedPhraseIds": ["vill-du-ha-engangsentre"]
+  },
+  {
+    "id": "situation-3",
+    "prompt": "Du frågar om kunden har kort.",
+    "targetSentence": "Har du ett klippkort?",
+    "wordBank": ["Har", "du", "ett", "klippkort?"],
+    "relatedConcepts": ["klippkort"],
+    "relatedPhraseIds": ["har-du-klippkort"]
+  },
+  {
+    "id": "situation-4",
+    "prompt": "Kunden frågar om öppettider.",
+    "targetSentence": "Läs våra öppettider på hemsidan.",
+    "wordBank": ["Läs", "våra", "öppettider", "på", "hemsidan"],
+    "relatedConcepts": ["oppettider"],
+    "relatedPhraseIds": ["las-vara-oppettider"]
+  },
+  {
+    "id": "situation-5",
+    "prompt": "Kunden har betalat.",
+    "targetSentence": "Här är ditt kvitto.",
+    "wordBank": ["Här", "är", "ditt", "kvitto"],
+    "relatedConcepts": ["kvitto"],
+    "relatedPhraseIds": ["har-ar-ditt-kvitto"]
+  }
+]

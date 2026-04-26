@@ -1,0 +1,92 @@
+[
+  {
+    "id": "nodsituation",
+    "word": "Nödsituation",
+    "type": "substantiv",
+    "inflections": ["nödsituation", "nödsituationen", "nödsituationer", "nödsituationerna"],
+    "explanation": "En farlig situation. Någon behöver snabb hjälp.",
+    "image": "/modules/akuta-situationer/images/nodsituation.jpg",
+    "audio": "/modules/akuta-situationer/audio/nodsituation.mp3"
+  },
+  {
+    "id": "livraddning",
+    "word": "Livräddning",
+    "type": "substantiv",
+    "inflections": ["livräddning", "livräddningen", "livräddningar", "livräddningarna"],
+    "explanation": "Att rädda en person från fara, ofta i vatten.",
+    "image": "/modules/akuta-situationer/images/livradning.jpg",
+    "audio": "/modules/akuta-situationer/audio/livradning.mp3"
+  },
+  {
+    "id": "forsta_hjalpen",
+    "word": "Första hjälpen",
+    "type": "substantiv",
+    "inflections": ["första hjälpen"],
+    "explanation": "Hjälp innan ambulans eller läkare kommer.",
+    "image": "/modules/akuta-situationer/images/forsta_hjalpen.jpg",
+    "audio": "/modules/akuta-situationer/audio/forsta_hjalpen.mp3"
+  },
+  {
+    "id": "hlr",
+    "word": "HLR",
+    "type": "substantiv",
+    "inflections": ["HLR"],
+    "explanation": "Hjälp när hjärtat har stannat. Du trycker på bröstet och ger luft.",
+    "image": "/modules/akuta-situationer/images/hlr.jpg",
+    "audio": "/modules/akuta-situationer/audio/hlr.mp3"
+  },
+  {
+    "id": "livboj",
+    "word": "Livboj",
+    "type": "substantiv",
+    "inflections": ["livboj", "livbojen", "livbojar", "livbojarna"],
+    "explanation": "En ring som flyter. Du kastar den till en person i vattnet.",
+    "image": "/modules/akuta-situationer/images/livboj.jpg",
+    "audio": "/modules/akuta-situationer/audio/livboj.mp3"
+  },
+  {
+    "id": "raddningskrok",
+    "word": "Räddningskrok",
+    "type": "substantiv",
+    "inflections": ["räddningskrok", "räddningskroken", "räddningskrokar", "räddningskrokarna"],
+    "explanation": "En lång krok. Du drar in en person från vattnet.",
+    "image": "/modules/akuta-situationer/images/radningskrok.jpg",
+    "audio": "/modules/akuta-situationer/audio/radningskrok.mp3"
+  },
+  {
+    "id": "drunkning",
+    "word": "Drunkning",
+    "type": "substantiv",
+    "inflections": ["drunkning", "drunkningen", "drunkningar", "drunkningarna"],
+    "explanation": "En person kan inte andas i vatten.",
+    "image": "/modules/akuta-situationer/images/drunkning.jpg",
+    "audio": "/modules/akuta-situationer/audio/drunkning.mp3"
+  },
+  {
+    "id": "medvetslos",
+    "word": "Medvetslös",
+    "type": "adjektiv",
+    "inflections": ["medvetslös", "medvetslöst", "medvetslösa"],
+    "explanation": "Personen är inte vaken och svarar inte.",
+    "image": "/modules/akuta-situationer/images/medvetslos.jpg",
+    "audio": "/modules/akuta-situationer/audio/medvetslos.mp3"
+  },
+  {
+    "id": "andning",
+    "word": "Andning",
+    "type": "substantiv",
+    "inflections": ["andning", "andningen", "andningar", "andningarna"],
+    "explanation": "När du tar luft in och ut.",
+    "image": "/modules/akuta-situationer/images/andning.jpg",
+    "audio": "/modules/akuta-situationer/audio/andning.mp3"
+  },
+  {
+    "id": "larma",
+    "word": "Larma",
+    "type": "verb",
+    "inflections": ["larmar", "larmade", "larmat"],
+    "explanation": "Att ringa 112 och be om hjälp.",
+    "image": "/modules/akuta-situationer/images/larma.jpg",
+    "audio": "/modules/akuta-situationer/audio/larma.mp3"
+  }
+]

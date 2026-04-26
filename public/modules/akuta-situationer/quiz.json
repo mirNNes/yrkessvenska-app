@@ -1,0 +1,92 @@
+[
+  {
+    "id": "quiz-1",
+    "question": "Vad gör du först vid en nödsituation?",
+    "options": ["Ring 112", "Stäng dörren", "Gå hem"],
+    "correctAnswer": "Ring 112",
+    "relatedConcepts": ["nodsituation", "larma"]
+  },
+  {
+    "id": "quiz-2",
+    "question": "Vad betyder medvetslös?",
+    "options": ["Inte vaken och svarar inte", "Lugn", "Skadad"],
+    "correctAnswer": "Inte vaken och svarar inte",
+    "relatedConcepts": ["medvetslos"]
+  },
+  {
+    "id": "quiz-3",
+    "question": "Vad använder du för att hjälpa i vattnet?",
+    "options": ["Livboj", "Handduk", "Nyckel"],
+    "correctAnswer": "Livboj",
+    "relatedConcepts": ["livboj"]
+  },
+  {
+    "id": "quiz-4",
+    "question": "Vad betyder HLR?",
+    "options": ["Hjärt-lungräddning", "Hög livräddning", "Hjälp vid ryggskada"],
+    "correctAnswer": "Hjärt-lungräddning",
+    "relatedConcepts": ["hlr"]
+  },
+  {
+    "id": "quiz-5",
+    "question": "Vad ska du kontrollera?",
+    "options": ["Andningen", "Biljetten", "Skåpet"],
+    "correctAnswer": "Andningen",
+    "relatedConcepts": ["andning"]
+  },
+  {
+    "id": "quiz-6",
+    "question": "Vad är första hjälpen?",
+    "options": [
+      "Hjälp innan ambulans eller läkare kommer",
+      "En regel i simhallen",
+      "En biljett"
+    ],
+    "correctAnswer": "Hjälp innan ambulans eller läkare kommer",
+    "relatedConcepts": ["forsta_hjalpen"]
+  },
+  {
+    "id": "quiz-7",
+    "question": "Vad gör du med en räddningskrok?",
+    "options": [
+      "Drar in en person från vattnet",
+      "Låser ett skåp",
+      "Städar golvet"
+    ],
+    "correctAnswer": "Drar in en person från vattnet",
+    "relatedConcepts": ["raddningskrok"]
+  },
+  {
+    "id": "quiz-8",
+    "question": "Vad betyder drunkning?",
+    "options": [
+      "Kan inte andas i vatten",
+      "Springer vid bassängen",
+      "Fryser"
+    ],
+    "correctAnswer": "Kan inte andas i vatten",
+    "relatedConcepts": ["drunkning"]
+  },
+  {
+    "id": "quiz-9",
+    "question": "Vad betyder larma?",
+    "options": [
+      "Ringa 112 och be om hjälp",
+      "Öppna receptionen",
+      "Visa vägen"
+    ],
+    "correctAnswer": "Ringa 112 och be om hjälp",
+    "relatedConcepts": ["larma"]
+  },
+  {
+    "id": "quiz-10",
+    "question": "Vad är livräddning?",
+    "options": [
+      "Rädda en person från fara",
+      "Sälja biljetter",
+      "Städa bassängen"
+    ],
+    "correctAnswer": "Rädda en person från fara",
+    "relatedConcepts": ["livraddning"]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "det-ar-halkrisk-har",
+    "text": "Det är halkrisk här.",
+    "explanation": "Säg detta för att varna.",
+    "relatedConcepts": ["halkrisk"]
+  },
+  {
+    "id": "hoppa-inte-fran-kanten",
+    "text": "Hoppa inte från kanten.",
+    "explanation": "Säg detta när det är farligt.",
+    "relatedConcepts": ["hoppa"]
+  },
+  {
+    "id": "en-badvard-ar-har",
+    "text": "En badvärd är här.",
+    "explanation": "Säg detta om personal.",
+    "relatedConcepts": ["badvard"]
+  },
+  {
+    "id": "simma-forsiktigt",
+    "text": "Simma försiktigt.",
+    "explanation": "Säg detta för säkerhet.",
+    "relatedConcepts": ["simma"]
+  },
+  {
+    "id": "det-ar-djupt-har",
+    "text": "Det är djupt här.",
+    "explanation": "Säg detta som varning.",
+    "relatedConcepts": ["djupt_vatten"]
+  },
+  {
+    "id": "anvand-flytvast",
+    "text": "Använd flytväst.",
+    "explanation": "Säg detta för säkerhet.",
+    "relatedConcepts": ["flytvast"]
+  },
+  {
+    "id": "folj-reglerna",
+    "text": "Följ reglerna.",
+    "explanation": "Säg detta till gäster.",
+    "relatedConcepts": ["regler"]
+  },
+  {
+    "id": "ga-upp-ur-bassangen",
+    "text": "Gå upp ur bassängen.",
+    "explanation": "Säg detta när någon ska upp.",
+    "relatedConcepts": ["bassang"]
+  },
+  {
+    "id": "spring-inte-har",
+    "text": "Spring inte här.",
+    "explanation": "Säg detta för att minska risk.",
+    "relatedConcepts": ["halkrisk"]
+  },
+  {
+    "id": "sakerheten-kommer-forst",
+    "text": "Säkerheten kommer först.",
+    "explanation": "Säg detta om regler.",
+    "relatedConcepts": ["sakerhet"]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "quiz-1",
+    "question": "Vad är regler?",
+    "options": [
+      "Saker som alla måste följa",
+      "Saker man köper",
+      "Saker man simmar i"
+    ],
+    "correctAnswer": "Saker som alla måste följa",
+    "relatedConcepts": ["regler"]
+  },
+  {
+    "id": "quiz-2",
+    "question": "Vad betyder duscha?",
+    "options": [
+      "Att tvätta kroppen före bad",
+      "Att springa i simhallen",
+      "Att köpa biljett"
+    ],
+    "correctAnswer": "Att tvätta kroppen före bad",
+    "relatedConcepts": ["duscha"]
+  },
+  {
+    "id": "quiz-3",
+    "question": "Vad betyder förbjudet?",
+    "options": [
+      "Något som man inte får göra",
+      "Något som alla måste göra",
+      "Något som kostar mycket"
+    ],
+    "correctAnswer": "Något som man inte får göra",
+    "relatedConcepts": ["forbjudet"]
+  },
+  {
+    "id": "quiz-4",
+    "question": "Vad är en skylt?",
+    "options": [
+      "Något som visar information eller regler",
+      "En plats där man byter om",
+      "Ett kort för flera besök"
+    ],
+    "correctAnswer": "Något som visar information eller regler",
+    "relatedConcepts": ["skylt"]
+  },
+  {
+    "id": "quiz-5",
+    "question": "Vad betyder ordning?",
+    "options": [
+      "När allt är lugnt och fungerar bra",
+      "När alla springer",
+      "När något är trasigt"
+    ],
+    "correctAnswer": "När allt är lugnt och fungerar bra",
+    "relatedConcepts": ["ordning"]
+  }
+]

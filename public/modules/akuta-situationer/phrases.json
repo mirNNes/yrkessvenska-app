@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ring-112",
+    "text": "Ring 112!",
+    "explanation": "Säg detta vid en farlig situation.",
+    "relatedConcepts": ["nodsituation", "larma"]
+  },
+  {
+    "id": "ta-livboj",
+    "text": "Ta en livboj!",
+    "explanation": "Säg detta när någon är i vattnet.",
+    "relatedConcepts": ["livboj", "livraddning"]
+  },
+  {
+    "id": "anvand-raddningskrok",
+    "text": "Använd räddningskroken!",
+    "explanation": "Säg detta för att hjälpa från kanten.",
+    "relatedConcepts": ["raddningskrok", "livraddning"]
+  },
+  {
+    "id": "personen-ar-medvetslos",
+    "text": "Personen är medvetslös.",
+    "explanation": "Säg detta när personen inte svarar.",
+    "relatedConcepts": ["medvetslos"]
+  },
+  {
+    "id": "kontrollera-andningen",
+    "text": "Kontrollera andningen.",
+    "explanation": "Säg detta för att se om personen andas.",
+    "relatedConcepts": ["andning"]
+  },
+  {
+    "id": "borja-med-hlr",
+    "text": "Börja med HLR!",
+    "explanation": "Säg detta när personen inte andas.",
+    "relatedConcepts": ["hlr"]
+  },
+  {
+    "id": "var-lugn",
+    "text": "Var lugn.",
+    "explanation": "Säg detta för att lugna andra.",
+    "relatedConcepts": ["nodsituation"]
+  },
+  {
+    "id": "vi-hjalper-dig",
+    "text": "Vi hjälper dig.",
+    "explanation": "Säg detta för att ge trygghet.",
+    "relatedConcepts": ["forsta_hjalpen"]
+  },
+  {
+    "id": "lamna-bassangen",
+    "text": "Lämna bassängen!",
+    "explanation": "Säg detta för att få bort andra personer.",
+    "relatedConcepts": ["nodsituation"]
+  },
+  {
+    "id": "vi-behover-ambulans",
+    "text": "Vi behöver en ambulans.",
+    "explanation": "Säg detta när du ringer 112.",
+    "relatedConcepts": ["nodsituation", "larma"]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fill-1",
+    "sentence": "Använd ___.",
+    "answer": "skyddsutrustning",
+    "options": ["skyddsutrustning", "mobilen", "handskar"],
+    "relatedConcepts": ["skyddsutrustning"],
+    "relatedPhraseId": "anvand-skyddsutrustning"
+  },
+  {
+    "id": "fill-2",
+    "sentence": "Följ ___.",
+    "answer": "rutinerna",
+    "options": ["rutinerna", "känslan", "schemat"],
+    "relatedConcepts": ["rutiner"],
+    "relatedPhraseId": "folj-rutinerna"
+  },
+  {
+    "id": "fill-3",
+    "sentence": "Gör en ___.",
+    "answer": "riskbedömning",
+    "options": ["riskbedömning", "lista", "paus"],
+    "relatedConcepts": ["riskbedomning"],
+    "relatedPhraseId": "gor-en-riskbedomning"
+  },
+  {
+    "id": "fill-4",
+    "sentence": "Rapportera ___.",
+    "answer": "olyckan",
+    "options": ["olyckan", "problemet", "dagen"],
+    "relatedConcepts": ["olycka", "rapportera"],
+    "relatedPhraseId": "rapportera-olyckan"
+  },
+  {
+    "id": "fill-5",
+    "sentence": "Tänk på ___.",
+    "answer": "ergonomin",
+    "options": ["ergonomin", "vädret", "tiden"],
+    "relatedConcepts": ["ergonomi"],
+    "relatedPhraseId": "tank-pa-ergonomin"
+  }
+]

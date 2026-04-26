@@ -1,0 +1,82 @@
+[
+  {
+    "id": "situation-1",
+    "prompt": "Golvet är smutsigt.",
+    "targetSentence": "Använd en mopp.",
+    "wordBank": ["Använd", "en", "mopp"],
+    "relatedConcepts": ["mopp"],
+    "relatedPhraseIds": ["anvand-en-mopp"]
+  },
+  {
+    "id": "situation-2",
+    "prompt": "Du behöver vatten för att städa.",
+    "targetSentence": "Hämta en hink.",
+    "wordBank": ["Hämta", "en", "hink"],
+    "relatedConcepts": ["hink"],
+    "relatedPhraseIds": ["hamta-en-hink"]
+  },
+  {
+    "id": "situation-3",
+    "prompt": "Det är smuts på golvet.",
+    "targetSentence": "Det är smuts här.",
+    "wordBank": ["Det", "är", "smuts", "här"],
+    "relatedConcepts": ["smuts"],
+    "relatedPhraseIds": ["det-ar-smuts"]
+  },
+  {
+    "id": "situation-4",
+    "prompt": "Golvet är blött.",
+    "targetSentence": "Vi måste torka.",
+    "wordBank": ["Vi", "måste", "torka"],
+    "relatedConcepts": ["torka"],
+    "relatedPhraseIds": ["vi-maste-torka"]
+  },
+  {
+    "id": "situation-5",
+    "prompt": "Det ligger skräp på golvet.",
+    "targetSentence": "Vi ska plocka.",
+    "wordBank": ["Vi", "ska", "plocka"],
+    "relatedConcepts": ["plocka"],
+    "relatedPhraseIds": ["vi-ska-plocka"]
+  },
+  {
+    "id": "situation-6",
+    "prompt": "Något ska slängas.",
+    "targetSentence": "Släng avfall.",
+    "wordBank": ["Släng", "avfall"],
+    "relatedConcepts": ["avfall"],
+    "relatedPhraseIds": ["slang-avfall"]
+  },
+  {
+    "id": "situation-7",
+    "prompt": "Golvet har damm.",
+    "targetSentence": "Vi ska sopa.",
+    "wordBank": ["Vi", "ska", "sopa"],
+    "relatedConcepts": ["sopa"],
+    "relatedPhraseIds": ["vi-ska-sopa"]
+  },
+  {
+    "id": "situation-8",
+    "prompt": "Du ska torka en yta.",
+    "targetSentence": "Använd en trasa.",
+    "wordBank": ["Använd", "en", "trasa"],
+    "relatedConcepts": ["trasa"],
+    "relatedPhraseIds": ["anvand-en-trasa"]
+  },
+  {
+    "id": "situation-9",
+    "prompt": "Nu är golvet klart.",
+    "targetSentence": "Nu är det rent.",
+    "wordBank": ["Nu", "är", "det", "rent"],
+    "relatedConcepts": ["rent"],
+    "relatedPhraseIds": ["nu-ar-det-rent"]
+  },
+  {
+    "id": "situation-10",
+    "prompt": "Du använder vatten när du städar.",
+    "targetSentence": "Vi använder vatten.",
+    "wordBank": ["Vi", "använder", "vatten"],
+    "relatedConcepts": ["vatten"],
+    "relatedPhraseIds": ["vi-anvander-vatten"]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "situation-1",
+    "prompt": "En gäst följer inte reglerna.",
+    "targetSentence": "Följ reglerna.",
+    "wordBank": ["Följ", "reglerna"],
+    "relatedConcepts": ["regler"],
+    "relatedPhraseIds": ["folj-reglerna"]
+  },
+  {
+    "id": "situation-2",
+    "prompt": "En gäst går till bassängen utan att tvätta sig.",
+    "targetSentence": "Du måste duscha.",
+    "wordBank": ["Du", "måste", "duscha"],
+    "relatedConcepts": ["duscha"],
+    "relatedPhraseIds": ["du-maste-duscha"]
+  },
+  {
+    "id": "situation-3",
+    "prompt": "En gäst springer vid bassängen.",
+    "targetSentence": "Du får inte springa.",
+    "wordBank": ["Du", "får", "inte", "springa"],
+    "relatedConcepts": ["springa"],
+    "relatedPhraseIds": ["du-far-inte-springa"]
+  },
+  {
+    "id": "situation-4",
+    "prompt": "Någon gör något som inte är tillåtet.",
+    "targetSentence": "Det är förbjudet.",
+    "wordBank": ["Det", "är", "förbjudet"],
+    "relatedConcepts": ["forbjudet"],
+    "relatedPhraseIds": ["det-ar-forbjudet"]
+  },
+  {
+    "id": "situation-5",
+    "prompt": "En gäst måste läsa informationen först.",
+    "targetSentence": "Läs skylten.",
+    "wordBank": ["Läs", "skylten"],
+    "relatedConcepts": ["skylt"],
+    "relatedPhraseIds": ["las-skylten"]
+  }
+]

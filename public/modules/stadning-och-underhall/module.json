@@ -1,0 +1,13 @@
+{
+  "id": "sakerhet-vid-bassangen",
+  "title": "Säkerhet vid bassängen",
+  "description": "Lär dig viktiga ord, fraser och situationer för säkerhet i badhuset.",
+  "order": 1,
+  "steps": [
+    "concepts",
+    "phrases",
+    "fill-blanks",
+    "quiz",
+    "situations"
+  ]
+}

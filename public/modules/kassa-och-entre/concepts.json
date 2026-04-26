@@ -1,0 +1,92 @@
+[
+  {
+    "id": "entre",
+    "word": "Entré",
+    "type": "substantiv",
+    "inflections": ["entré", "entrén", "entréer", "entréerna"],
+    "explanation": "Här går du in i simhallen.",
+    "image": "/modules/kassa-och-entre/images/entre.jpg",
+    "audio": "/modules/kassa-och-entre/audio/entre.mp3"
+  },
+  {
+    "id": "engangsentre",
+    "word": "Engångsentré",
+    "type": "substantiv",
+    "inflections": ["engångsentré", "engångsentrén", "engångsentréer", "engångsentréerna"],
+    "explanation": "En biljett för ett besök.",
+    "image": "/modules/kassa-och-entre/images/engangsentre.jpg",
+    "audio": "/modules/kassa-och-entre/audio/engangsentre.mp3"
+  },
+  {
+    "id": "klippkort",
+    "word": "Klippkort",
+    "type": "substantiv",
+    "inflections": ["klippkort", "klippkortet", "klippkort", "klippkorten"],
+    "explanation": "Ett kort för flera besök.",
+    "image": "/modules/kassa-och-entre/images/klippkort.jpg",
+    "audio": "/modules/kassa-och-entre/audio/klippkort.mp3"
+  },
+  {
+    "id": "medlemskap",
+    "word": "Medlemskap",
+    "type": "substantiv",
+    "inflections": ["medlemskap", "medlemskapet", "medlemskap", "medlemskapen"],
+    "explanation": "Du betalar och kan komma många gånger.",
+    "image": "/modules/kassa-och-entre/images/medlemskap.jpg",
+    "audio": "/modules/kassa-och-entre/audio/medlemskap.mp3"
+  },
+  {
+    "id": "betalning",
+    "word": "Betalning",
+    "type": "substantiv",
+    "inflections": ["betalning", "betalningen", "betalningar", "betalningarna"],
+    "explanation": "När du betalar.",
+    "image": "/modules/kassa-och-entre/images/betalning.jpg",
+    "audio": "/modules/kassa-och-entre/audio/betalning.mp3"
+  },
+  {
+    "id": "kortbetalning",
+    "word": "Kortbetalning",
+    "type": "substantiv",
+    "inflections": ["kortbetalning", "kortbetalningen", "kortbetalningar", "kortbetalningarna"],
+    "explanation": "Du betalar med kort.",
+    "image": "/modules/kassa-och-entre/images/kortbetalning.jpg",
+    "audio": "/modules/kassa-och-entre/audio/kortbetalning.mp3"
+  },
+  {
+    "id": "kvitto",
+    "word": "Kvitto",
+    "type": "substantiv",
+    "inflections": ["kvitto", "kvittot", "kvitton", "kvittona"],
+    "explanation": "Ett papper som visar att du har betalat.",
+    "image": "/modules/kassa-och-entre/images/kvitto.jpg",
+    "audio": "/modules/kassa-och-entre/audio/kvitto.mp3"
+  },
+  {
+    "id": "pris",
+    "word": "Pris",
+    "type": "substantiv",
+    "inflections": ["pris", "priset", "priser", "priserna"],
+    "explanation": "Hur mycket det kostar.",
+    "image": "/modules/kassa-och-entre/images/pris.jpg",
+    "audio": "/modules/kassa-och-entre/audio/pris.mp3"
+  },
+  {
+    "id": "oppettider",
+    "word": "Öppettid",
+    "type": "substantiv",
+    "inflections": ["öppettid", "öppettiden", "öppettider", "öppettiderna"],
+    "explanation": "När simhallen är öppen.",
+    "image": "/modules/kassa-och-entre/images/oppettider.jpg",
+    "audio": "/modules/kassa-och-entre/audio/oppettider.mp3"
+  },
+  {
+    "id": "reception",
+    "word": "Reception",
+    "type": "substantiv",
+    "inflections": ["reception", "receptionen", "receptioner", "receptionerna"],
+    "explanation": "Här får du hjälp och betalar.",
+    "image": "/modules/kassa-och-entre/images/reception.jpg",
+    "audio": "/modules/kassa-och-entre/audio/reception.mp3"
+  }
+]

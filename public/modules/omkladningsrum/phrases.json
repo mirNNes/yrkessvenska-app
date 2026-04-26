@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ga-till-omkladningsrummet",
+    "text": "Gå till omklädningsrummet.",
+    "explanation": "Säg detta för att visa vägen.",
+    "relatedConcepts": ["omkladningsrum"]
+  },
+  {
+    "id": "du-laser-skapet-med-ett-armband",
+    "text": "Du låser skåpet med ett armband.",
+    "explanation": "Säg detta för att visa hur man låser.",
+    "relatedConcepts": ["skap", "armband"]
+  },
+  {
+    "id": "du-maste-duscha-forst",
+    "text": "Du måste duscha först.",
+    "explanation": "Säg detta om regler.",
+    "relatedConcepts": ["dusch", "hygien"]
+  },
+  {
+    "id": "lagg-dina-saker-i-ett-skap",
+    "text": "Lägg dina saker i ett skåp.",
+    "explanation": "Säg detta för att visa var saker ska vara.",
+    "relatedConcepts": ["skap"]
+  },
+  {
+    "id": "ta-med-dig-skorna-till-skapet",
+    "text": "Ta med dig skorna till skåpet.",
+    "explanation": "Säg detta om skorna.",
+    "relatedConcepts": ["skor", "skap"]
+  },
+  {
+    "id": "anvand-handduk",
+    "text": "Använd handduk.",
+    "explanation": "Säg detta för att påminna.",
+    "relatedConcepts": ["handduk"]
+  },
+  {
+    "id": "hall-god-hygien",
+    "text": "Håll god hygien.",
+    "explanation": "Säg detta om att vara ren.",
+    "relatedConcepts": ["hygien"]
+  },
+  {
+    "id": "byt-om-har",
+    "text": "Byt om här.",
+    "explanation": "Säg detta för att visa platsen.",
+    "relatedConcepts": ["omkladningsrum"]
+  },
+  {
+    "id": "toaletten-ar-dar",
+    "text": "Toaletten är där.",
+    "explanation": "Säg detta för att visa vägen.",
+    "relatedConcepts": ["toalett"]
+  },
+  {
+    "id": "anvand-vardeskap",
+    "text": "Använd värdeskåp.",
+    "explanation": "Säg detta för att skydda saker.",
+    "relatedConcepts": ["vardeskap"]
+  }
+]

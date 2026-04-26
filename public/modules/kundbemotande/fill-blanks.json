@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fill-1",
+    "sentence": "Kan jag ___ dig?",
+    "answer": "hjälpa",
+    "options": ["hjälpa", "ringa", "se"],
+    "relatedConcepts": ["hjalpa"],
+    "relatedPhraseId": "hej-hur-kan-jag-hjalpa-dig"
+  },
+  {
+    "id": "fill-2",
+    "sentence": "Jag ___, jag ska hjälpa dig.",
+    "answer": "förstår",
+    "options": ["förstår", "tänker", "tror"],
+    "relatedConcepts": ["bemotande"],
+    "relatedPhraseId": "jag-ska-hjalpa-dig"
+  },
+  {
+    "id": "fill-3",
+    "sentence": "Jag ger dig ___.",
+    "answer": "information",
+    "options": ["information", "tid", "hjälp"],
+    "relatedConcepts": ["information"],
+    "relatedPhraseId": "jag-ger-dig-information"
+  },
+  {
+    "id": "fill-4",
+    "sentence": "Jag är ___ och visar respekt.",
+    "answer": "vänlig",
+    "options": ["vänlig", "snabb", "tyst"],
+    "relatedConcepts": ["vänlig"],
+    "relatedPhraseId": "var-vanlig-mot-kunden"
+  },
+  {
+    "id": "fill-5",
+    "sentence": "Jag visar dig ___.",
+    "answer": "vägen",
+    "options": ["vägen", "tiden", "platsen"],
+    "relatedConcepts": ["service"],
+    "relatedPhraseId": "jag-visar-dig-vagen"
+  }
+]

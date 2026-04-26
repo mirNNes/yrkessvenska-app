@@ -1,0 +1,42 @@
+[
+  {
+    "id": "situation-1",
+    "prompt": "Golvet är blött och en gäst springer.",
+    "targetSentence": "Det är halkrisk här.",
+    "wordBank": ["Det", "är", "halkrisk", "här"],
+    "relatedConcepts": ["halkrisk"],
+    "relatedPhraseIds": ["det-ar-halkrisk-har"]
+  },
+  {
+    "id": "situation-2",
+    "prompt": "Ett barn vill hoppa från kanten.",
+    "targetSentence": "Hoppa inte från kanten.",
+    "wordBank": ["Hoppa", "inte", "från", "kanten"],
+    "relatedConcepts": ["hoppa"],
+    "relatedPhraseIds": ["hoppa-inte-fran-kanten"]
+  },
+  {
+    "id": "situation-3",
+    "prompt": "Du vill visa att personal finns.",
+    "targetSentence": "En badvärd är här.",
+    "wordBank": ["En", "badvärd", "är", "här"],
+    "relatedConcepts": ["badvard"],
+    "relatedPhraseIds": ["en-badvard-ar-har"]
+  },
+  {
+    "id": "situation-4",
+    "prompt": "En gäst simmar snabbt och farligt.",
+    "targetSentence": "Simma försiktigt.",
+    "wordBank": ["Simma", "försiktigt"],
+    "relatedConcepts": ["simma"],
+    "relatedPhraseIds": ["simma-forsiktigt"]
+  },
+  {
+    "id": "situation-5",
+    "prompt": "Du vill varna för djupt vatten.",
+    "targetSentence": "Det är djupt här.",
+    "wordBank": ["Det", "är", "djupt", "här"],
+    "relatedConcepts": ["djupt_vatten"],
+    "relatedPhraseIds": ["det-ar-djupt-har"]
+  }
+]

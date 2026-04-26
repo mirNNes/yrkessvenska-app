@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kund",
+    "word": "Kund",
+    "type": "substantiv",
+    "inflections": ["kund", "kunden", "kunder", "kunderna"],
+    "explanation": "En person som är i simhallen.",
+    "image": "/modules/kundbemotande/images/kund.jpg",
+    "audio": "/modules/kundbemotande/audio/kund.mp3"
+  },
+  {
+    "id": "service",
+    "word": "Service",
+    "type": "substantiv",
+    "inflections": ["service", "servicen"],
+    "explanation": "Att hjälpa kunden på ett bra sätt.",
+    "image": "/modules/kundbemotande/images/service.jpg",
+    "audio": "/modules/kundbemotande/audio/service.mp3"
+  },
+  {
+    "id": "bemotande",
+    "word": "Bemötande",
+    "type": "substantiv",
+    "inflections": ["bemötande", "bemötandet", "bemötanden", "bemötandena"],
+    "explanation": "Hur du är mot kunden.",
+    "image": "/modules/kundbemotande/images/bemotande.jpg",
+    "audio": "/modules/kundbemotande/audio/bemotande.mp3"
+  },
+  {
+    "id": "vanlig",
+    "word": "Vänlig",
+    "type": "adjektiv",
+    "inflections": ["vänlig", "vänligt", "vänliga"],
+    "explanation": "Snäll och trevlig.",
+    "image": "/modules/kundbemotande/images/vanlig.jpg",
+    "audio": "/modules/kundbemotande/audio/vanlig.mp3"
+  },
+  {
+    "id": "hjalpa",
+    "word": "Hjälpa",
+    "type": "verb",
+    "inflections": ["hjälper", "hjälpte", "hjälpt"],
+    "explanation": "Att göra något bra för en person.",
+    "image": "/modules/kundbemotande/images/hjalpa.jpg",
+    "audio": "/modules/kundbemotande/audio/hjalpa.mp3"
+  },
+  {
+    "id": "information",
+    "word": "Information",
+    "type": "substantiv",
+    "inflections": ["information", "informationen"],
+    "explanation": "Fakta som kunden behöver.",
+    "image": "/modules/kundbemotande/images/information.jpg",
+    "audio": "/modules/kundbemotande/audio/information.mp3"
+  },
+  {
+    "id": "fraga",
+    "word": "Fråga",
+    "type": "substantiv",
+    "inflections": ["fråga", "frågan", "frågor", "frågorna"],
+    "explanation": "Något en person vill veta.",
+    "image": "/modules/kundbemotande/images/fraga.jpg",
+    "audio": "/modules/kundbemotande/audio/fraga.mp3"
+  },
+  {
+    "id": "klagomal",
+    "word": "Klagomål",
+    "type": "substantiv",
+    "inflections": ["klagomål", "klagomålet", "klagomål", "klagomålen"],
+    "explanation": "När kunden säger att något är fel.",
+    "image": "/modules/kundbemotande/images/klagomal.jpg",
+    "audio": "/modules/kundbemotande/audio/klagomal.mp3"
+  },
+  {
+    "id": "problem",
+    "word": "Problem",
+    "type": "substantiv",
+    "inflections": ["problem", "problemet", "problem", "problemen"],
+    "explanation": "När något inte fungerar.",
+    "image": "/modules/kundbemotande/images/problem.jpg",
+    "audio": "/modules/kundbemotande/audio/problem.mp3"
+  },
+  {
+    "id": "respekt",
+    "word": "Respekt",
+    "type": "substantiv",
+    "inflections": ["respekt", "respekten"],
+    "explanation": "Att vara snäll och visa hänsyn.",
+    "image": "/modules/kundbemotande/images/respekt.jpg",
+    "audio": "/modules/kundbemotande/audio/respekt.mp3"
+  }
+]

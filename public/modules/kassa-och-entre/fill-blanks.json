@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fill-1",
+    "sentence": "Välkommen till ___.",
+    "answer": "entrén",
+    "options": ["entrén", "hallen", "utgången"],
+    "relatedConcepts": ["entre"],
+    "relatedPhraseId": "valkommen-till-entreen"
+  },
+  {
+    "id": "fill-2",
+    "sentence": "Vill du ha en ___?",
+    "answer": "engångsentré",
+    "options": ["engångsentré", "biljett", "påse"],
+    "relatedConcepts": ["engangsentre"],
+    "relatedPhraseId": "vill-du-ha-engangsentre"
+  },
+  {
+    "id": "fill-3",
+    "sentence": "Har du ett ___?",
+    "answer": "klippkort",
+    "options": ["klippkort", "kvitto", "kort"],
+    "relatedConcepts": ["klippkort"],
+    "relatedPhraseId": "har-du-klippkort"
+  },
+  {
+    "id": "fill-4",
+    "sentence": "Här är ditt ___.",
+    "answer": "kvitto",
+    "options": ["kvitto", "kort", "papper"],
+    "relatedConcepts": ["kvitto"],
+    "relatedPhraseId": "har-ar-ditt-kvitto"
+  },
+  {
+    "id": "fill-5",
+    "sentence": "Fråga i ___.",
+    "answer": "receptionen",
+    "options": ["receptionen", "hallen", "butiken"],
+    "relatedConcepts": ["reception"],
+    "relatedPhraseId": "fraga-i-receptionen"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "folj-rutinerna",
+    "text": "Följ rutinerna.",
+    "explanation": "Säg detta när någon ska följa reglerna.",
+    "relatedConcepts": ["rutiner"]
+  },
+  {
+    "id": "anvand-skyddsutrustning",
+    "text": "Använd skyddsutrustning.",
+    "explanation": "Säg detta när någon behöver skydd.",
+    "relatedConcepts": ["skyddsutrustning"]
+  },
+  {
+    "id": "det-ar-viktigt-med-sakerhet",
+    "text": "Det är viktigt med säkerhet.",
+    "explanation": "Säg detta när du pratar om tryggt arbete.",
+    "relatedConcepts": ["sakerhet"]
+  },
+  {
+    "id": "gor-en-riskbedomning",
+    "text": "Gör en riskbedömning.",
+    "explanation": "Säg detta innan arbetet börjar.",
+    "relatedConcepts": ["riskbedomning"]
+  },
+  {
+    "id": "rapportera-olyckan",
+    "text": "Rapportera olyckan.",
+    "explanation": "Säg detta när något har hänt.",
+    "relatedConcepts": ["rapportera", "olycka"]
+  },
+  {
+    "id": "ta-ansvar-for-arbetet",
+    "text": "Ta ansvar för arbetet.",
+    "explanation": "Säg detta när någon ska göra sitt jobb.",
+    "relatedConcepts": ["ansvar"]
+  },
+  {
+    "id": "tank-pa-ergonomin",
+    "text": "Tänk på ergonomin.",
+    "explanation": "Säg detta för att skydda kroppen.",
+    "relatedConcepts": ["ergonomi"]
+  },
+  {
+    "id": "detta-ar-din-arbetsplats",
+    "text": "Detta är din arbetsplats.",
+    "explanation": "Säg detta när du visar platsen.",
+    "relatedConcepts": ["arbetsplats"]
+  },
+  {
+    "id": "vi-har-en-bra-arbetsmiljo",
+    "text": "Vi har en bra arbetsmiljö.",
+    "explanation": "Säg detta när du pratar om jobbet.",
+    "relatedConcepts": ["arbetsmiljo"]
+  },
+  {
+    "id": "det-har-maste-rapporteras",
+    "text": "Det här måste rapporteras.",
+    "explanation": "Säg detta när något är fel.",
+    "relatedConcepts": ["rapportera"]
+  }
+]

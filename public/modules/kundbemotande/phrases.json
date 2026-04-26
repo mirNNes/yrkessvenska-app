@@ -1,0 +1,52 @@
+[
+  {
+    "id": "hej-hur-kan-jag-hjalpa-dig",
+    "text": "Hej, hur kan jag hjälpa dig?",
+    "explanation": "Säg detta när en kund kommer."
+  },
+  {
+    "id": "jag-ger-dig-information",
+    "text": "Jag ger dig information.",
+    "explanation": "Säg detta när kunden vill veta något."
+  },
+  {
+    "id": "har-du-en-fraga",
+    "text": "Har du en fråga?",
+    "explanation": "Säg detta för att hjälpa mer."
+  },
+  {
+    "id": "jag-ska-hjalpa-dig",
+    "text": "Jag ska hjälpa dig.",
+    "explanation": "Säg detta när kunden har ett problem."
+  },
+  {
+    "id": "tack-for-att-du-vantar",
+    "text": "Tack för att du väntar.",
+    "explanation": "Säg detta när kunden väntar."
+  },
+  {
+    "id": "vi-vill-hjalpa-dig",
+    "text": "Vi vill hjälpa dig.",
+    "explanation": "Säg detta när kunden inte är nöjd."
+  },
+  {
+    "id": "vi-ger-bra-service",
+    "text": "Vi ger bra service.",
+    "explanation": "Säg detta om jobbet."
+  },
+  {
+    "id": "var-vanlig-mot-kunden",
+    "text": "Var vänlig mot kunden.",
+    "explanation": "Säg detta till personal."
+  },
+  {
+    "id": "visa-respekt",
+    "text": "Visa respekt.",
+    "explanation": "Säg detta om hur man ska vara."
+  },
+  {
+    "id": "vi-losar-problemet",
+    "text": "Vi löser problemet.",
+    "explanation": "Säg detta när du hjälper kunden."
+  }
+]
