@@ -9,11 +9,11 @@ function Home() {
         <h1>Välkommen!</h1>
 
         <p className="welcome__text">
-          Träna svenska för jobbet i simhallen  i din egen takt.
+          Träna svenska för jobbet i simhallen i din egen takt.
         </p>
 
         <img
-          src="/images/pool.jpg"
+          src={import.meta.env.BASE_URL + "images/pool.jpg"}
           alt="Arbete i simhall"
           className="welcome__image"
         />
@@ -35,4 +35,5 @@ function Home() {
     </main>
   );
 }
+
 export default Home;
