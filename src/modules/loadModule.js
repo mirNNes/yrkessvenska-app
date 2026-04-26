@@ -1,6 +1,19 @@
 export async function loadModule(moduleId) {
   const basePath = `${import.meta.env.BASE_URL}modules/${moduleId}`;
 
+  const withBasePath = (path, folder) => {
+    if (!path) return path;
+    if (path.startsWith("http")) return path;
+    if (path.startsWith("/")) return import.meta.env.BASE_URL + path.slice(1);
+    return `${basePath}/${folder}/${path}`;
+  };
+
+  const normalizeItem = (item) => ({
+    ...item,
+    image: withBasePath(item.image, "images"),
+    audio: withBasePath(item.audio, "audio"),
+  });
+
   const loadJson = async (path, fallback = null) => {
     const res = await fetch(path);
 
@@ -24,8 +37,11 @@ export async function loadModule(moduleId) {
 
   return {
     ...moduleData,
-    concepts,
-    phrases,
+    image: withBasePath(moduleData.image, "images"),
+    cover: withBasePath(moduleData.cover, "images"),
+    coverImage: withBasePath(moduleData.coverImage, "images"),
+    concepts: concepts.map(normalizeItem),
+    phrases: phrases.map(normalizeItem),
     fillBlanks,
     quiz,
     situations,
